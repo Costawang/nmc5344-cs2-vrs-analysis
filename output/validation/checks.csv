@@ -1,0 +1,28 @@
+check,passed,observed,severity
+unique source identities,TRUE,23999,error
+unique global entries,TRUE,14070,error
+canonical detail coverage,TRUE,14070,error
+global ranks contiguous per snapshot,TRUE,56,error
+published points agree with detailed value,TRUE,0.5,error
+detail decomposition within printed precision,TRUE,0.100000000000193,error
+detail team agrees,TRUE,0,error
+detail roster agrees,TRUE,14070,error
+detail rank agrees,TRUE,0,error
+monthly dates are consecutive,TRUE,27,error
+monthly lineage keys unique,TRUE,7827,error
+no points changes across model boundaries,TRUE,881,error
+all regions linked to global entries,TRUE,14135,error
+one region after regional reassignment,TRUE,1,error
+regional tables agree with details,TRUE,14135,error
+match contribution keys unique,TRUE,469139,error
+matches predate snapshot,TRUE,0,error
+match results recognized,TRUE,"W,L",error
+weights in observed range,TRUE,469139,error
+winnings keys unique,TRUE,44468,error
+investigated snapshot date baseline,TRUE,57,error
+investigated global date baseline,TRUE,56,error
+investigated invitation date baseline,TRUE,27,error
+investigated detail row baseline,TRUE,14070,error
+all archived files present,TRUE,23999,error
+raw SHA-256 unchanged,TRUE,23999,error
+raw bytes match official Git blobs,TRUE,23999,error

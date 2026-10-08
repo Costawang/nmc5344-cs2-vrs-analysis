@@ -1,0 +1,11 @@
+project: nmc5344-cs2-vrs-analysis
+start_date: '2024-01-01'
+primary_series: invitation
+primary_start: '2024-08-06'
+minimum_volatility_months: 6
+identity_minimum_shared_players: 3
+raw_publication: local_only
+github_owner: Costawang
+github_repository: nmc5344-cs2-vrs-analysis
+github_visibility: public
+language: English_with_Chinese_interpretation

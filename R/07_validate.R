@@ -1,0 +1,62 @@
+source("R/helpers.R")
+validate_project <- function(check_raw = TRUE) {
+  checks <- list()
+  check <- function(name, passed, observed, severity = "error") {
+    checks[[length(checks) + 1L]] <<- tibble(check = name, passed = isTRUE(passed), observed = as.character(observed), severity = severity)
+  }
+  m <- read_csv_project("data/source_manifest.csv")
+  s <- read_csv_project("data/processed/vrs_standings_long.csv")
+  g <- read_csv_project("data/processed/vrs_global_snapshots.csv")
+  x <- read_csv_project("data/processed/vrs_monthly_panel.csv")
+  det <- read_csv_project("data/processed/vrs_team_details.csv")
+  reg <- read_csv_project("data/processed/vrs_regions.csv")
+  check("unique source identities", !anyDuplicated(m$source_id), nrow(m))
+  check("unique global entries", !anyDuplicated(g$entry_id), nrow(g))
+  check("canonical detail coverage", setequal(g$entry_id, det$entry_id) && !anyDuplicated(det$entry_id), nrow(det))
+  check("global ranks contiguous per snapshot", all(vapply(split(g$rank, g$snapshot_date), function(v) identical(as.integer(sort(v)), seq_along(v)), logical(1))), n_distinct(g$snapshot_date))
+  check("published points agree with detailed value", all(abs(g$points - g$final_rank_value) <= .56), max(abs(g$points - g$final_rank_value)))
+  check("detail decomposition within printed precision", all(abs(det$final_rank_value - det$starting_rank_value - det$h2h_adjustment) <= .16), max(abs(det$final_rank_value - det$starting_rank_value - det$h2h_adjustment)))
+  check("detail team agrees", all(g$team == g$detail_team), sum(g$team != g$detail_team))
+  check("detail roster agrees", all(g$roster_signature == vapply(g$detail_roster, roster_signature, character(1))), nrow(g))
+  check("detail rank agrees", all(g$rank == g$detail_global_rank), sum(g$rank != g$detail_global_rank))
+  check("monthly dates are consecutive", all(diff(month_index(sort(unique(x$snapshot_date)))) == 1), n_distinct(x$snapshot_date))
+  check("monthly lineage keys unique", !anyDuplicated(paste(x$snapshot_date, x$lineage_id)), nrow(x))
+  check("no points changes across model boundaries", all(is.na(x$point_change[x$across_model_boundary %in% TRUE])), sum(x$across_model_boundary, na.rm = TRUE))
+  check("all regions linked to global entries", all(reg$entry_id %in% g$entry_id), nrow(reg))
+  late <- reg |> filter(snapshot_date >= as.Date("2025-07-07")) |> count(entry_id)
+  check("one region after regional reassignment", all(late$n == 1), max(late$n))
+  regional <- s |> filter(is_latest_revision, list_region != "global")
+  matched <- g |> select(entry_id, snapshot_date, series, roster_signature, team) |>
+    inner_join(regional |> select(snapshot_date, series, roster_signature, team, list_region, rank),
+               by = c("snapshot_date", "series", "roster_signature", "team"), relationship = "one-to-many")
+  expected <- matched |> transmute(entry_id, region = list_region, regional_rank = rank)
+  check("regional tables agree with details", nrow(anti_join(reg |> select(entry_id, region, regional_rank), expected, by = c("entry_id", "region", "regional_rank"))) == 0,
+        nrow(expected))
+  match_files <- list.files("data/processed", "^vrs_match_inputs_.*csv.gz$", full.names = TRUE)
+  match <- bind_rows(lapply(match_files, read_csv_project))
+  check("match contribution keys unique", !anyDuplicated(paste(match$entry_id, match$contribution_row)), nrow(match))
+  check("matches predate snapshot", all(match$match_date <= match$snapshot_date), sum(match$match_date > match$snapshot_date))
+  check("match results recognized", all(match$result %in% c("W", "L")), paste(unique(match$result), collapse = ","))
+  check("weights in observed range", all(match$age_weight >= 0 & match$age_weight <= 1) && all(is.na(match$event_weight) | (match$event_weight >= 0 & match$event_weight <= 1)), nrow(match))
+  win <- read_csv_project("data/processed/vrs_winnings.csv")
+  check("winnings keys unique", !anyDuplicated(paste(win$entry_id, win$winnings_row)), nrow(win))
+  lock <- jsonlite::read_json("config/source_lock.json", simplifyVector = TRUE)
+  if (lock$repositories$valve_vrs$commit_sha == "eec4853d7bcf0f1f7efe7f0d901234bef7e98b75") {
+    check("investigated snapshot date baseline", n_distinct(s$snapshot_date) == 57, n_distinct(s$snapshot_date))
+    check("investigated global date baseline", n_distinct(g$snapshot_date) == 56, n_distinct(g$snapshot_date))
+    check("investigated invitation date baseline", n_distinct(x$snapshot_date) == 27, n_distinct(x$snapshot_date))
+    check("investigated detail row baseline", nrow(g) == 14070, nrow(g))
+  }
+  if (check_raw) {
+    check("all archived files present", all(file.exists(m$local_path)), sum(file.exists(m$local_path)))
+    current_hashes <- vapply(m$local_path, file_hash, character(1))
+    check("raw SHA-256 unchanged", identical(unname(current_hashes), m$sha256), sum(current_hashes == m$sha256))
+    blob_hashes <- vapply(m$local_path, git_blob_hash, character(1))
+    check("raw bytes match official Git blobs", all(blob_hashes == m$blob_sha), sum(blob_hashes == m$blob_sha))
+  }
+  report <- bind_rows(checks)
+  save_csv(report, "output/validation/checks.csv")
+  if (any(!report$passed & report$severity == "error")) stop("Validation failed: ", paste(report$check[!report$passed], collapse = "; "))
+  message("Validation passed: ", nrow(report), " checks.")
+  invisible(report)
+}

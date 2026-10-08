@@ -1,0 +1,200 @@
+commit_sha,commit_time,message,repository
+eec4853d7bcf0f1f7efe7f0d901234bef7e98b75,2026-10-05T09:36:11-07:00,Updating Regional Standings for 10/5/2026,ValveSoftware/counter-strike_regional_standings
+84ccfa4d751fa3801ae6430097a9a66f104ee131,2026-09-09T11:45:20-07:00,Updating Regional Standings for 9/7/2026,ValveSoftware/counter-strike_regional_standings
+d007fa190cda39097a3ddd55bb6455adade117a9,2026-09-08T16:01:46-07:00,Updating VRS for 9/7/2026,ValveSoftware/counter-strike_regional_standings
+467b9d2e0e4b369d8b8df5fafcbe080a3c414124,2026-08-03T10:57:08-07:00,Updating Regional Standings for 8/3/2026,ValveSoftware/counter-strike_regional_standings
+050a38d71d4f5f07d2618bb8bedd54268b93bddf,2026-07-06T10:00:13-07:00,Updating Regional Standings for 7/6/2026,ValveSoftware/counter-strike_regional_standings
+510968f54723dcb698ad3b04d396140fc263c239,2026-06-01T10:15:49-07:00,Updating Regional Standings for 6/1/2026,ValveSoftware/counter-strike_regional_standings
+aac2074bc10fd62a8bf0b2146d7edfb67d224bcf,2026-05-04T10:50:46-07:00,Updating Regional Standings for 5/4/2026,ValveSoftware/counter-strike_regional_standings
+3c32325b3f52cfdc12f20325caff69a7bcabb8e6,2026-04-06T09:13:17-07:00,Updating Regional Standings for 4/6/2026,ValveSoftware/counter-strike_regional_standings
+3404a877b6ca513a1f508d6b23d20562c4afcc73,2026-03-02T09:40:13-08:00,Updating Regional Standings for 3/2/2026,ValveSoftware/counter-strike_regional_standings
+73c71008fb393980255103b93d6b868fb616f5ce,2026-02-02T10:03:49-08:00,Updating Regional Standings for 2/2/2026,ValveSoftware/counter-strike_regional_standings
+0b2154eacafe50abd2ec251ed78d460d8f833088,2026-01-05T09:34:33-08:00,Updating Regional Standings for 1/5/2026,ValveSoftware/counter-strike_regional_standings
+6b92cd657bfd7c281a3930a842fe2393b5bdb40b,2025-12-01T10:11:40-08:00,Updating Regional Standings for 12/1/2025,ValveSoftware/counter-strike_regional_standings
+468a448707996aa7067b8201c5fc77b9b95c247e,2025-11-03T10:33:49-08:00,Updating Regional Standings for 11/3/2025,ValveSoftware/counter-strike_regional_standings
+9fd3c0e8b86dbceed3a211cd2a2a34185b99a990,2025-10-06T09:35:02-07:00,Updating Regional Standings for 10/6/2025,ValveSoftware/counter-strike_regional_standings
+ec65cbf461daa5977d57f80561437961326cfc51,2025-09-01T09:58:36-07:00,Updating Regional Standings for 9/1/2025,ValveSoftware/counter-strike_regional_standings
+297ee0099e7b50fb3aa579c35831ab5ae8987128,2025-08-05T11:01:40-07:00,Updating VRS Model,ValveSoftware/counter-strike_regional_standings
+2f712c4602300e4eac8f3a4d579ffd8d88038e61,2025-08-04T10:22:23-07:00,Updating Regional Standings for 8/4/2025,ValveSoftware/counter-strike_regional_standings
+4608a24180f06d6a34581249168a294c2f21c4f3,2025-07-07T13:00:32-07:00,Updating Regional Standings for 7/7/2025,ValveSoftware/counter-strike_regional_standings
+3c9f3e71959f8c3a061b10cfb757888b1d298bef,2025-06-25T16:31:26-07:00,Updating VRS Model,ValveSoftware/counter-strike_regional_standings
+6cc8521091c1b6a6b441ebf8faf8926865694098,2025-06-16T16:11:31-07:00,Updating VRS Model,ValveSoftware/counter-strike_regional_standings
+1ce8398c0be1970319488c23cfd0d4077eaec04a,2025-06-02T10:58:00-07:00,Updating Regional Standings for 6/2/2025,ValveSoftware/counter-strike_regional_standings
+5426fc070e21ff44d85cf83a73abcddef601aae6,2025-05-05T09:56:18-07:00,Updating Regional Standings for 5/5/2025,ValveSoftware/counter-strike_regional_standings
+548080058dd97a23a13fdfbb02ed8503d46b1dee,2025-04-07T09:35:39-07:00,Updating Regional Standings for 4/7/2025,ValveSoftware/counter-strike_regional_standings
+293e01e588b5e751ee0b306dc2958765dc63dce0,2025-03-03T09:49:38-08:00,Updating Regional Standings for 3/3/2025,ValveSoftware/counter-strike_regional_standings
+7078138b9034f4fd9bae0a6152e6b8e8aee23e61,2025-02-24T15:20:42-08:00,Updating Regional Standings for 2/24/2025,ValveSoftware/counter-strike_regional_standings
+46f6cd0a366c1fa0faddf2e06c7c39d85659ba6f,2025-02-24T15:14:19-08:00,Updating VRS Model,ValveSoftware/counter-strike_regional_standings
+b3e2791b20488edc40eeedf5062c35cd9665df9b,2025-02-03T10:47:10-08:00,Updating Regional Standings for 2/3/2025,ValveSoftware/counter-strike_regional_standings
+2a27801f5c9391fdd5bb7b6ecec3f8e8699c35e8,2025-01-27T11:43:21-08:00,Updating Regional Standings for 1/27/2025,ValveSoftware/counter-strike_regional_standings
+c6bb3792afa3137ff70c1b5a918b4532e9271483,2025-01-20T13:19:17-08:00,filtering unranked matches,ValveSoftware/counter-strike_regional_standings
+aeaa725fdeb937c7d747d9c863efa6fd94128dd7,2025-01-20T13:18:18-08:00,Updating VRS for 1/20/2025,ValveSoftware/counter-strike_regional_standings
+983ef3124d8170a2067b69ec1ebc885457b575a0,2025-01-13T12:01:11-08:00,Updating Regional Standings for 1/13/2025,ValveSoftware/counter-strike_regional_standings
+a762daa455e0fa1c39ec4db188301a5b468fe92f,2025-01-06T09:53:54-08:00,Updating Regional Standings for 1/6/2025,ValveSoftware/counter-strike_regional_standings
+91e0c21b4328cd10758e351dfadaee869e1b907e,2024-12-31T11:24:08-08:00,allow setting an output date,ValveSoftware/counter-strike_regional_standings
+35fc3096bd6ab9fd6b0687c431dffe07353cc565,2024-12-31T11:22:04-08:00,Updating VRS for 12/31/2024,ValveSoftware/counter-strike_regional_standings
+e643784dc0343a403b5973845af6c2802f1cb1c1,2024-12-18T12:02:27-08:00,Updating Regional Standings for 12/18/2024,ValveSoftware/counter-strike_regional_standings
+c408eada80b0aae06b10da5a90409694f4a5b019,2024-12-02T09:28:02-08:00,Updating Regional Standings for 12/2/2024,ValveSoftware/counter-strike_regional_standings
+8a8657be12dc322d1141fe6263cf8270c718b605,2024-11-25T08:10:05-08:00,Updating Regional Standings for 11/25/2024,ValveSoftware/counter-strike_regional_standings
+9a0c127dc05a3f91a308a28995db6a58494e0889,2024-11-13T12:27:00-08:00,Updating Regional Standings for 11/13/2024,ValveSoftware/counter-strike_regional_standings
+43843908f8054635db19582ea98e64a281caeb9c,2024-11-06T09:43:14-08:00,Updating Regional Standings for 11/6/2024,ValveSoftware/counter-strike_regional_standings
+8fa8cd8c8690cac9f33045cef134f7a0b3eff4c7,2024-10-30T11:16:41-07:00,Updating Regional Standings for 10/30/2024,ValveSoftware/counter-strike_regional_standings
+17d487386f698634422a1aa6860699c420c3e4f8,2024-10-23T13:32:00-07:00,Updating Regional Standings for 10/23/2024,ValveSoftware/counter-strike_regional_standings
+81a4bcd9cd775715530400b85bfa6dfef4dafc5a,2024-10-15T09:48:11-07:00,Updating Regional Standings for 10/15/2024,ValveSoftware/counter-strike_regional_standings
+5be9601ebb79aa45fec46931a87867fd34c3080d,2024-10-09T10:53:57-07:00,Updating Regional Standings for 10/9/2024,ValveSoftware/counter-strike_regional_standings
+c162e50fc1405a4bb4b9fb6fbce355ae11d95588,2024-10-02T13:49:01-07:00,Updating Regional Standings for 10/2/2024,ValveSoftware/counter-strike_regional_standings
+a2e828fc3754ae350fcd183090cf7f4cfb6a0b3b,2024-09-26T10:55:08-07:00,Updating Regional Standings for 9/26/2024,ValveSoftware/counter-strike_regional_standings
+222b71c3b241cca0003310cbbb640e374bc7e7da,2024-09-18T10:04:47-07:00,Updating Regional Standings for 9/18/2024,ValveSoftware/counter-strike_regional_standings
+49a634cd5718c7bcd7903441a3a626f4f08e8cd5,2024-09-11T10:59:11-07:00,Updating Regional Standings for 9/11/2024,ValveSoftware/counter-strike_regional_standings
+39110a0933749b0fa607011ef3f6091fc3e4491d,2024-09-04T11:43:48-07:00,Updating Regional Standings for 9/4/2024,ValveSoftware/counter-strike_regional_standings
+9dbadf237ce064369833766defe8ec382fdc9137,2024-08-28T11:17:26-07:00,Updating Regional Standings for 8/28/2024,ValveSoftware/counter-strike_regional_standings
+0eae6abd2f8e0054c0ed34c5cf320c3e57890af4,2024-08-26T16:07:31-07:00,Adding sample dataset,ValveSoftware/counter-strike_regional_standings
+1ff417b0ce62565373f90ca1bc51dbae0ba620ff,2024-08-21T15:33:38-07:00,Details are stored separately for each Regional Standings update,ValveSoftware/counter-strike_regional_standings
+6b3994e5399d041ec1d3562f01db7883c55a878f,2024-08-21T15:31:05-07:00,Updating Regional Standings for 8/21/2024,ValveSoftware/counter-strike_regional_standings
+8d0c2c07aefd45708335db55fab56a590a3eb2ee,2024-08-14T15:53:41-07:00,Moving Regional Standings Details to the Live Standings folder,ValveSoftware/counter-strike_regional_standings
+8e17c91a7ca12e0cf9d7457c4adf291ba2b12958,2024-08-14T15:29:36-07:00,Updating Regional Standings for 8/14/2024 - Live and Invitation Standings,ValveSoftware/counter-strike_regional_standings
+48127d4873dec5504dd18f14006e67da888fab80,2024-08-06T11:28:19-07:00,Updating Regional Standings for 8/6/2024,ValveSoftware/counter-strike_regional_standings
+8c0f350002fc6d8b2d6389410f87e5a0b75192ab,2024-07-31T15:46:27-07:00,Updating Regional Standings for 7/31/2024,ValveSoftware/counter-strike_regional_standings
+30c7001f43f5b7955938f3137fe97ada194c9415,2024-07-31T15:40:28-07:00,Updating Regional Standings Reporting,ValveSoftware/counter-strike_regional_standings
+49af9b1e734ab94953fa9d683304b69b8b56d908,2024-07-24T13:16:15-07:00,Updating Regional Standings for 7/24/2024,ValveSoftware/counter-strike_regional_standings
+65440b1ee195cbe8515651149ff871c084d5c347,2024-07-17T10:09:37-07:00,Updating Regional Standings for 7/17/2024,ValveSoftware/counter-strike_regional_standings
+f99f3a4822b0aa58322f8b9f927b5c9db9b433d7,2024-07-11T11:33:31-07:00,Updating Regional Standings for 7/11/2024,ValveSoftware/counter-strike_regional_standings
+a8b7bcc645497b3d25397c0137234cb3e277734f,2024-07-11T11:30:42-07:00,Updating Regional Standings Model,ValveSoftware/counter-strike_regional_standings
+f588a19017b476ab5f921d1d12e46d5f0bb7c76a,2024-06-18T11:25:34-07:00,Adding support for arbitrary datasets,ValveSoftware/counter-strike_regional_standings
+4db3400ea2534f2817502cea2cbf3cbac3355f88,2024-06-18T11:22:30-07:00,Updating Regional Standings for 6/18/2024,ValveSoftware/counter-strike_regional_standings
+91b0f30a837d004058dff7970223bb365ce69718,2024-06-10T17:53:10-07:00,.gitignore,ValveSoftware/counter-strike_regional_standings
+a7183e584d4fc532918ba2c779b5806e316c8ca9,2024-06-10T13:00:05-07:00,Updating Regional Standings for 6/10/2024,ValveSoftware/counter-strike_regional_standings
+1e837738241605357775aae245a629f0c8317b1b,2024-06-10T12:50:26-07:00,removed /data/,ValveSoftware/counter-strike_regional_standings
+204e7988a14102829c788837f1e34ef2a8b227bd,2024-05-29T16:40:20-07:00,Updating Regional Standings for 5/29/2024,ValveSoftware/counter-strike_regional_standings
+560f043e8e38323312a5207f21433a9b639e60ff,2024-05-06T13:50:45-07:00,Updating Regional Standings for 5/6/2024,ValveSoftware/counter-strike_regional_standings
+042ecbaac27ec92059691b2b2a8b39cc807c6d46,2024-04-22T15:56:07-07:00,Adjusting report formatting,ValveSoftware/counter-strike_regional_standings
+6fb9c269735165d60fa3baaa6fcd619492da49cf,2024-04-22T15:47:43-07:00,Updating Regional Standings for 4/22/2024,ValveSoftware/counter-strike_regional_standings
+5a5bb43c2d383f32f48836e9125256317653da55,2024-04-22T15:46:06-07:00,Revised Ranking Model,ValveSoftware/counter-strike_regional_standings
+99a0ba5fff938345d10d500f8b29cd297076573e,2024-03-04T15:55:04-08:00,Updating Regional Standings for 3/4/2024,ValveSoftware/counter-strike_regional_standings
+6941a94460029270edccc7b25da553f1aa77c7b1,2023-12-18T08:29:29-08:00,Updating Regional Standings for 12/18/2023,ValveSoftware/counter-strike_regional_standings
+11a61e06c0f37fc71d74e28dde796bf2da337aa4,2023-12-11T11:11:08-08:00,Merge branch 'main' of https://github.com/ValveSoftware/counter-strike,ValveSoftware/counter-strike_regional_standings
+5d8a145c17ed66be82dd5e2ab379487ade162320,2023-12-11T10:15:56-08:00,Updating Regional Standings for 12/11/2023,ValveSoftware/counter-strike_regional_standings
+f93335430ecf5d95f5026c982ff167c4ec9eff33,2023-11-03T10:57:31-07:00,Updating Regional Standings for 11/3/2023,ValveSoftware/counter-strike_regional_standings
+6da7b02a7cc54ad9a94fbaf3b51bcc6c7d62ae41,2023-11-03T10:55:22-07:00,Revised ranking model formula,ValveSoftware/counter-strike_regional_standings
+db55d1824431d48e93f923169084b9283448522e,2023-10-11T13:40:27-07:00,Updating Standings for 10/11/2023,ValveSoftware/counter-strike_regional_standings
+327086fd5f2cd38e910eafa5ab8ae1f26833d248,2023-10-11T13:39:35-07:00,Revised regional standings requirements,ValveSoftware/counter-strike_regional_standings
+421a212f96b884c4561466c1ef8bf7e845a2a27c,2023-08-29T13:45:46-07:00,Updating Standings for 8/29/2023,ValveSoftware/counter-strike_regional_standings
+e2f0fbea78eebdf2cdbd5c235a69927b4f209e2e,2023-08-16T14:53:10-07:00,Updating Standings for 8/16/2023,ValveSoftware/counter-strike_regional_standings
+0bab3d2380f024cdeca0e290f8bd455de5930f84,2023-08-16T14:51:53-07:00,Revised Ranking Model Formula,ValveSoftware/counter-strike_regional_standings
+f1d7c6a03e25d6df89852700d52d2d43fb126b7b,2023-07-27T16:17:11-07:00,Updating Standings for 7/27/2023,ValveSoftware/counter-strike_regional_standings
+62bf9379b24316dd98d09b5fd27bceffe3b21fc9,2023-07-27T15:32:33-07:00,Added model testing framework,ValveSoftware/counter-strike_regional_standings
+247e66508877722da720a874fbe9f5a9f0822729,2023-07-27T15:27:58-07:00,Revised ranking model formula,ValveSoftware/counter-strike_regional_standings
+074990b9a7026d067a194eb59c6ecd21ed03382d,2023-02-12T12:17:51-08:00,Adding model dataset,ValveSoftware/counter-strike_regional_standings
+ab1c9fa67bf0aa4c30a40000c2f3dcf7d832978c,2023-02-12T12:16:33-08:00,Updating Standings for 2/12/2023,ValveSoftware/counter-strike_regional_standings
+a5b01a1daec284b79fbaddb512b7141eae189d31,2023-02-10T15:22:21-08:00,Added model code,ValveSoftware/counter-strike_regional_standings
+d8d74f0b7b5e3c8686d9f6463525cdb445527265,2023-01-31T14:24:36-08:00,Updating Standings for 1/31/2023,ValveSoftware/counter-strike_regional_standings
+bc45989b22f37135516a4d4b63c0fe2bcf5f571a,2023-01-17T13:21:00-08:00,Updating Standings for 1/17/2023,ValveSoftware/counter-strike_regional_standings
+8cc14de5d350eb4932b5a3b8e8bdcd827744692f,2023-01-03T15:50:29-08:00,Formatting rosters,ValveSoftware/counter-strike_regional_standings
+375e4f27346f3835b20b5b60171c181ece62f05b,2023-01-03T15:15:16-08:00,"Updated Rankings, Reclassified Kazakhstan to Europe",ValveSoftware/counter-strike_regional_standings
+fa8b294174899173679a55b1d1555b9051e745b4,2022-12-21T17:20:25-08:00,regional standings: added attribution,ValveSoftware/counter-strike_regional_standings
+fc60dd5433dd172a53d49524ed3a98531fd7bfdd,2022-12-21T17:06:10-08:00,Added regional standings,ValveSoftware/counter-strike_regional_standings
+621b7d91b0a236044aed62a357fddc863dfaea49,2026-10-07T10:30:36-07:00,Adding Singapore 2026 Major exception,ValveSoftware/counter-strike_rules_and_regs
+745a40758ed7877483d5544605cda6c6e1a1cd65,2026-10-06T09:59:52-07:00,Updating rules for Regional Assignment for the upcoming Singapore Major,ValveSoftware/counter-strike_rules_and_regs
+8594dc0cc8f8cd9ea9564af46e453fc673246cbd,2025-12-08T15:03:20-08:00,added TO requirements for both ranked and unranked events,ValveSoftware/counter-strike_rules_and_regs
+eb7fa3a39a4d799915cdf128c7cdecbf5e81e604,2025-10-21T15:39:29-07:00,Adding Declaration of Conflicts of Interest,ValveSoftware/counter-strike_rules_and_regs
+0a7a73eae17b31a66e216465e5e23d78a43e5b29,2025-10-20T15:10:10-07:00,Add Chennai Esports and Nodwin exceptions,ValveSoftware/counter-strike_rules_and_regs
+2c1712d37aeb139e99a143e157c603880237f221,2025-10-13T16:42:35-07:00,clarified player participation requirements,ValveSoftware/counter-strike_rules_and_regs
+1c485970da016ad3744b74bcc5c2d0406a741b43,2025-09-23T15:25:27-07:00,formatting,ValveSoftware/counter-strike_rules_and_regs
+4a93b4ed8ae5a8848a1617972e00b43e52a09693,2025-09-23T15:22:52-07:00,formatting,ValveSoftware/counter-strike_rules_and_regs
+7dbf5c78332ecaace86d00bdc721addd09f6bb9c,2025-09-23T14:15:38-07:00,added requirements for operating open events,ValveSoftware/counter-strike_rules_and_regs
+e12ed56cbb9cccdb7adf75f2218a83d894dcc2da,2025-09-05T15:36:03-07:00,"Updated additional information deadlines, updated disqualification rules requirements",ValveSoftware/counter-strike_rules_and_regs
+b04c8791e50e27b360e86340377b79c25a3dc5b1,2025-09-05T15:33:57-07:00,Add IEM Chengdu and Galaxy Battle Phase 4 & 5 exceptions,ValveSoftware/counter-strike_rules_and_regs
+63b6f21f5ec0a305a683a9e177d29228785a0c1c,2025-08-13T10:16:59-07:00,added publication requirement,ValveSoftware/counter-strike_rules_and_regs
+a22f91da503d3afc00045fdad339bc6a3cd19c98,2025-08-05T14:40:53-07:00,Updating regional assignment for Stage 1 of the Major,ValveSoftware/counter-strike_rules_and_regs
+f73691a2fe26c36f3780045552e52482848c189b,2025-07-08T17:03:32-07:00,Updated Tournament Exceptions,ValveSoftware/counter-strike_rules_and_regs
+f5b16417b8184567029c10fd1253c15895f9dcfa,2025-06-30T15:00:09-07:00,minor table layout fixes,ValveSoftware/counter-strike_rules_and_regs
+50da49eadbd3985338e2eb8fe9e38aaaad99117a,2025-06-30T14:57:34-07:00,table format fix,ValveSoftware/counter-strike_rules_and_regs
+200f0273d3948d49622f83bd7372be19afa942d3,2025-06-30T14:51:48-07:00,"added qualifier compensation reqs, eased sub-region assignment.",ValveSoftware/counter-strike_rules_and_regs
+31b4263006b2f2625a2484142d7aa91825e3904e,2025-06-30T14:50:41-07:00,post austin major update,ValveSoftware/counter-strike_rules_and_regs
+2c85d431cb4788ca7cc57854759bf4fe01c8cae3,2025-06-09T10:07:45-07:00,removed MRQs and clarified team regional assignment,ValveSoftware/counter-strike_rules_and_regs
+b6a45ea7919c526e3fe216b58a1cd6f1e6655d36,2025-05-28T11:49:20-07:00,"Add Skyesports, ACL, and XPL exceptions",ValveSoftware/counter-strike_rules_and_regs
+0a01fae2de548baa192a47d6bd96ed02c2b495b5,2025-04-23T15:48:40-07:00,Add FiReLEAGUE Buenos Aires 2025 exception,ValveSoftware/counter-strike_rules_and_regs
+83a0955044aabe171a0789899342012ff0fcd969,2025-04-07T11:26:37-07:00,Add YaLLa Compass Qatar 2025 exception,ValveSoftware/counter-strike_rules_and_regs
+a0729198a6f933249eb3eedb24c02a74115c9484,2025-03-25T15:54:47-07:00,Merge branch 'main' of https://github.com/ValveSoftware/counter-strike_rules_and_regs,ValveSoftware/counter-strike_rules_and_regs
+4915a746a7b72eedc15d496f4116969ee4da1127,2025-03-25T15:54:44-07:00,update to invitation requirements,ValveSoftware/counter-strike_rules_and_regs
+9354f7bf11a78a09e143a8e2e1c025688e1d5cc9,2025-03-20T10:24:37-07:00,updates to section 5,ValveSoftware/counter-strike_rules_and_regs
+19c6ba297d3fa038a383c23b6738f94ec61aac82,2025-03-14T11:39:51-07:00,fixed mistake in 3.6.3,ValveSoftware/counter-strike_rules_and_regs
+001eec57a7f537101bcb0743510af53a7b4f213d,2025-03-14T10:16:11-07:00,"adjusted tier invite requirements, seeding, wildcards, and location specificity",ValveSoftware/counter-strike_rules_and_regs
+554abed53c3f559bd9cc86f076bad28a984c80f2,2025-03-06T10:34:55-08:00,"defined Tournament Dates, specified seeding VRS version",ValveSoftware/counter-strike_rules_and_regs
+dc805e175c087309b885b99c730af05587fd8ffb,2025-03-04T13:55:28-08:00,Updating Tournament Exceptions,ValveSoftware/counter-strike_rules_and_regs
+9416abce93174ea317e31c8136579ba0b106e346,2025-03-03T16:02:05-08:00,Updating Tournament Exceptions,ValveSoftware/counter-strike_rules_and_regs
+e490675e692596af99d198658fa19613390c79d4,2025-03-03T14:27:06-08:00,Updating Tournament Exceptions,ValveSoftware/counter-strike_rules_and_regs
+7843cde1a84caebb840332fdd8bccd0413eae9a9,2025-03-03T10:39:05-08:00,Updating Tournament Operation Requirements,ValveSoftware/counter-strike_rules_and_regs
+69095c1e37c50c7c2e10151d7f0f0cf3dafd08b4,2025-02-28T10:35:23-08:00,added PGL Bucharest exception,ValveSoftware/counter-strike_rules_and_regs
+ab70efcc6787b54852dbdc746de955728e98cd22,2025-02-26T16:28:55-08:00,Merge pull request #30 from MischiefCS/patch-1,ValveSoftware/counter-strike_rules_and_regs
+a65d0ebdd4bc47f72085095c118d185e85306093,2025-02-18T16:42:26-08:00,Updating Tournament Operation Requirements,ValveSoftware/counter-strike_rules_and_regs
+9679cc6d2eafc0b667b0fe9732129c65a8e0f6d0,2025-02-18T14:50:29-08:00,Updated Tournament Operation Requirements,ValveSoftware/counter-strike_rules_and_regs
+b7d605337e5f8f1b697fc7be40d7db415b49bcac,2025-02-18T10:58:25-08:00,Updating Tournament Exceptions,ValveSoftware/counter-strike_rules_and_regs
+7524555827f87ab0e421433e20aef61c5c9b9f74,2025-02-07T12:44:36-08:00,Update tournament-operation-requirements-exceptions.md,ValveSoftware/counter-strike_rules_and_regs
+59bec52613dd5ad58b96d15afa7c733d4ed79758,2025-02-07T12:28:31-08:00,Updating Tournament Exceptions,ValveSoftware/counter-strike_rules_and_regs
+ab9cb2eef3adce370c4e04ac588635e989bec6f1,2025-01-24T11:35:10-08:00,Updating Tournament Exceptions,ValveSoftware/counter-strike_rules_and_regs
+0f4bf38bb7496729363fcf2c0f6ff71d8daf969b,2025-01-16T14:59:07-08:00,Updating MRQ formats. Updating Regional Assignment rules. Other minor adjustments.,ValveSoftware/counter-strike_rules_and_regs
+78dc1bd3749f8829810a640052244f2c025c352a,2025-01-14T16:11:05-08:00,Updating Tournament Exceptions,ValveSoftware/counter-strike_rules_and_regs
+5d975a93ed573c1f3820cf8c9176fe97d96bfd81,2025-01-08T17:05:38-08:00,Updating Tournament Operation Requirements,ValveSoftware/counter-strike_rules_and_regs
+494c8ccbd2f9e5cee41a448147839ee198bd59bb,2025-01-07T17:05:20-08:00,added tournament exception catalog,ValveSoftware/counter-strike_rules_and_regs
+efa8f74c45fa39e816b37bd7824ca4918739fdc0,2025-01-03T10:46:05-08:00,Updating the Major Supplemental Rulebook,ValveSoftware/counter-strike_rules_and_regs
+ebfdd342e139fb1d4068da49e5311afafe196023,2024-11-04T16:32:09-08:00,Simplified and clarified invitation rules,ValveSoftware/counter-strike_rules_and_regs
+9b62dc8512fbe63b852df925848741349e039591,2024-09-03T12:28:19-07:00,TOs must pre-announce which VRS they will use,ValveSoftware/counter-strike_rules_and_regs
+adafc104697511d41ef489b9bbca5bceef0bf1ee,2024-08-14T15:59:18-07:00,another pass on Invite Date reqs,ValveSoftware/counter-strike_rules_and_regs
+1e4e7d323f626d0cbd609803e8fff61159619daa,2024-08-13T11:45:15-07:00,Invite date timing,ValveSoftware/counter-strike_rules_and_regs
+9e409771503d787fb3767646d59fccce4cbe5a5a,2024-08-05T09:18:10-07:00,5.4 invite exceptions,ValveSoftware/counter-strike_rules_and_regs
+80da70a0fa32581fd8d7fe6de1cf3c9e027444cb,2024-07-23T11:06:53-07:00,Updated tournament operation requirements,ValveSoftware/counter-strike_rules_and_regs
+af10cc848134543ba8f4e1693e10ee296f81f7fe,2024-07-16T14:44:34-07:00,Added tournament operation requirements,ValveSoftware/counter-strike_rules_and_regs
+c3dcdbcc627c080d44f2a6c71f995b3dc24b80dc,2024-06-10T17:49:12-07:00,reverted .gitignore,ValveSoftware/counter-strike_rules_and_regs
+e34221392a798455790b3217163a1db377709080,2024-06-10T17:48:36-07:00,removed regional standings.,ValveSoftware/counter-strike_rules_and_regs
+5d40bd6937f1363d0394f2c07caaa08381d03682,2024-06-10T13:00:05-07:00,Updating Regional Standings for 6/10/2024,ValveSoftware/counter-strike_rules_and_regs
+843ff949a9705b3e8ab8a0d65bf85aaa514a662a,2024-06-10T12:50:26-07:00,removed /data/,ValveSoftware/counter-strike_rules_and_regs
+abd1e4085bb4914e1aec3edf2b08dabff4bfe1b3,2024-05-30T09:53:24-07:00,Updated Major Supplemental Rulebook,ValveSoftware/counter-strike_rules_and_regs
+f6ec628ff2c06e70b91e1f3fb570f613a223e4f1,2024-05-29T16:40:20-07:00,Updating Regional Standings for 5/29/2024,ValveSoftware/counter-strike_rules_and_regs
+9273ac97ad878c5ad64e6416a6bc316f67fa38e2,2024-05-06T13:50:45-07:00,Updating Regional Standings for 5/6/2024,ValveSoftware/counter-strike_rules_and_regs
+08f12bebb9f39973e45be63d7b8b2a187c932fe2,2024-04-22T15:56:07-07:00,Adjusting report formatting,ValveSoftware/counter-strike_rules_and_regs
+4e6f2f7fb4d9bf8540d9fdd6835b8de941993312,2024-04-22T15:47:43-07:00,Updating Regional Standings for 4/22/2024,ValveSoftware/counter-strike_rules_and_regs
+3d42d853c1625bee3f135b3c0632614023f99c2f,2024-04-22T15:46:06-07:00,Revised Ranking Model,ValveSoftware/counter-strike_rules_and_regs
+253930a005da4196979701622ac3f1ddb77dadd1,2024-03-21T15:19:19-07:00,Updating Major Supplemental Rulebook,ValveSoftware/counter-strike_rules_and_regs
+b22c77172fd3ad01289d5b96f6a51d0a215d7fee,2024-03-04T15:55:04-08:00,Updating Regional Standings for 3/4/2024,ValveSoftware/counter-strike_rules_and_regs
+ec2ca3ad57f5977d2d554cabb0ce6bac6a005da0,2024-02-16T09:34:10-08:00,Updating Major Supplemental Rulebook,ValveSoftware/counter-strike_rules_and_regs
+3536cd7c5f07a4bc45b5f3aca60b701acb3d535b,2024-01-23T16:51:19-08:00,Updated Major Supplemental Rulebook,ValveSoftware/counter-strike_rules_and_regs
+2bf7a6ca4268941d9a07edd7098beeaa245e93d0,2024-01-23T13:48:26-08:00,Updating Tournament Item Submission Guidelines,ValveSoftware/counter-strike_rules_and_regs
+eae742aa6f6d861e60b57f84686fe75e3f58ff96,2024-01-23T13:45:27-08:00,Adding Tournament Item Submission Guidelines,ValveSoftware/counter-strike_rules_and_regs
+7f21fdb25cdc37400ba911670fae242af55c617f,2024-01-03T11:29:05-08:00,Updated Major Supplemental Rulebook,ValveSoftware/counter-strike_rules_and_regs
+ecc6bd102900498157656274a1c040a2ceab7c1a,2023-12-18T08:29:29-08:00,Updating Regional Standings for 12/18/2023,ValveSoftware/counter-strike_rules_and_regs
+bcf21fb1e4d92224a4c3bc6610ce3f8f252c0393,2023-12-11T11:11:08-08:00,Merge branch 'main' of https://github.com/ValveSoftware/counter-strike,ValveSoftware/counter-strike_rules_and_regs
+18cb49322131578ded52e443df47755821cbad8b,2023-12-11T10:15:56-08:00,Updating Regional Standings for 12/11/2023,ValveSoftware/counter-strike_rules_and_regs
+54c71612b4d17f7f452d27c4e68f3349e712d7c7,2023-11-03T10:57:31-07:00,Updating Regional Standings for 11/3/2023,ValveSoftware/counter-strike_rules_and_regs
+6b5b5d66e37c46bf1f4ef9f483b319e878758b44,2023-11-03T10:55:22-07:00,Revised ranking model formula,ValveSoftware/counter-strike_rules_and_regs
+94f23eb11e5e97a14481959044d8fb2e10384488,2023-11-03T10:20:20-07:00,Updated Major Supplemental Rulebook,ValveSoftware/counter-strike_rules_and_regs
+e003a8365efc994bc0b2f62f1f48a9bf8b6ca1f3,2023-10-11T13:40:27-07:00,Updating Standings for 10/11/2023,ValveSoftware/counter-strike_rules_and_regs
+b306ddbb1b62eb1e7f3e5f8597d9527229d0b433,2023-10-11T13:39:35-07:00,Revised regional standings requirements,ValveSoftware/counter-strike_rules_and_regs
+5a5ea78bea5fa6221abab56822d50e1d66e21118,2023-08-29T13:45:46-07:00,Updating Standings for 8/29/2023,ValveSoftware/counter-strike_rules_and_regs
+7818c171faa30cac2cbf92e1fe8c5b5d646fd25c,2023-08-16T14:53:10-07:00,Updating Standings for 8/16/2023,ValveSoftware/counter-strike_rules_and_regs
+1b22e9bd15f3f086fc566d074dfff300e2f0fafe,2023-08-16T14:51:53-07:00,Revised Ranking Model Formula,ValveSoftware/counter-strike_rules_and_regs
+ed0a2c2bbf15485ba48fa77924474175a8772532,2023-07-27T16:17:11-07:00,Updating Standings for 7/27/2023,ValveSoftware/counter-strike_rules_and_regs
+1b22b645b8089dd1ae4c336b0c350d8375a53043,2023-07-27T15:32:33-07:00,Added model testing framework,ValveSoftware/counter-strike_rules_and_regs
+397017bbf675eb6c53c7e7106d7f61fca4fc757a,2023-07-27T15:27:58-07:00,Revised ranking model formula,ValveSoftware/counter-strike_rules_and_regs
+0dfa0bddef69ae70805df836908981e5698e38fd,2023-05-24T17:20:24-07:00,CS:GO -> CS,ValveSoftware/counter-strike_rules_and_regs
+6d5c1bae387d4c32118b2f8ff5ec81887f519d27,2023-02-12T12:17:51-08:00,Adding model dataset,ValveSoftware/counter-strike_rules_and_regs
+2682ce2fd16149e4c281d220391e2cefd9d1ce5c,2023-02-12T12:16:33-08:00,Updating Standings for 2/12/2023,ValveSoftware/counter-strike_rules_and_regs
+24ae68512f0f3d3f34acf927c5a596da2f44c098,2023-02-10T15:22:21-08:00,Added model code,ValveSoftware/counter-strike_rules_and_regs
+c50ed5fe02d5f66acc097fbb165dba13667a2d9f,2023-01-31T14:24:36-08:00,Updating Standings for 1/31/2023,ValveSoftware/counter-strike_rules_and_regs
+12515fb1ebb102f30075ff919610b00993ac4d7c,2023-01-17T13:21:00-08:00,Updating Standings for 1/17/2023,ValveSoftware/counter-strike_rules_and_regs
+7690556e1a63ef14097ab1bbe49b70290ece76b6,2023-01-03T15:50:29-08:00,Formatting rosters,ValveSoftware/counter-strike_rules_and_regs
+46ea9fdf0485e197081c58f602f32d8752f42fb3,2023-01-03T15:15:16-08:00,"Updated Rankings, Reclassified Kazakhstan to Europe",ValveSoftware/counter-strike_rules_and_regs
+9bee7fd988c8f880012817e6b6146466c8896715,2022-12-21T17:20:25-08:00,regional standings: added attribution,ValveSoftware/counter-strike_rules_and_regs
+d928b8ad5dbfe16c2d6a70175bf867badc102b27,2022-12-21T17:06:10-08:00,Added regional standings,ValveSoftware/counter-strike_rules_and_regs
+516e4aa1ac6d93d6712c226c3b3ad6c619339da8,2022-12-12T16:38:05-08:00,Update to closed qualifier requirements,ValveSoftware/counter-strike_rules_and_regs
+2840efe41315380f47cc6f9e24856ce2e70cbd3b,2022-12-12T11:48:03-08:00,Added Regional Standings and Closed Qualifiers to the rules,ValveSoftware/counter-strike_rules_and_regs
+ba72454f14cbd8f952a9c3c694db7782fda7a750,2022-12-12T11:46:34-08:00,updated examples with most recent Major results,ValveSoftware/counter-strike_rules_and_regs
+dd59f2358da5c7afba1025c8c6cade98acb76b37,2022-12-12T11:41:20-08:00,Format changes,ValveSoftware/counter-strike_rules_and_regs
+b6b4937880e83466fff72abaa891e2eb28b2e2a3,2022-09-27T11:36:41-07:00,recovered regional contender allocations,ValveSoftware/counter-strike_rules_and_regs
+4c69db33e9f1eb5c6d1ea6342c63c194561960b4,2022-09-26T13:32:41-07:00,Merge pull request #1 from AquaIsMissing/main,ValveSoftware/counter-strike_rules_and_regs
+daada5e7b41d88daeaa9ccc4480ab3b280918488,2022-09-26T13:28:44-07:00,Merge branch 'main' of https://github.com/ValveSoftware/csgo-docs,ValveSoftware/counter-strike_rules_and_regs
+26fec2ff19771a0f3be816b58ceabc8be26a49dc,2022-09-26T13:27:57-07:00,Added table to swiss rematch rules,ValveSoftware/counter-strike_rules_and_regs
+17f1753a21ad7b157481bf7c5852377abaef3c09,2022-08-03T15:56:04-07:00,Create .gitignore,ValveSoftware/counter-strike_rules_and_regs
+465134ac3183db4f017613d3aad82981ce2efe79,2022-08-03T15:55:59-07:00,invites to be offered to core lineup,ValveSoftware/counter-strike_rules_and_regs
+fffe8fb6813f09b7de2ff74f0ef781c4667c8673,2022-08-03T15:55:53-07:00,Updated regional assignment rules,ValveSoftware/counter-strike_rules_and_regs
+db4a05a57815800db9c5f50cba1738369bb8e241,2022-08-03T15:53:00-07:00,rulebook migrated to github,ValveSoftware/counter-strike_rules_and_regs

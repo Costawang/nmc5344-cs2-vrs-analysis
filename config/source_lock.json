@@ -1,0 +1,14 @@
+{
+  "collection_utc": "2026-10-08T16:18:09Z",
+  "start_date": "2024-01-01",
+  "repositories": {
+    "valve_vrs": {
+      "repository": "ValveSoftware/counter-strike_regional_standings",
+      "commit_sha": "eec4853d7bcf0f1f7efe7f0d901234bef7e98b75"
+    },
+    "rules": {
+      "repository": "ValveSoftware/counter-strike_rules_and_regs",
+      "commit_sha": "621b7d91b0a236044aed62a357fddc863dfaea49"
+    }
+  }
+}

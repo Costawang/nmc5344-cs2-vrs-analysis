@@ -1,0 +1,776 @@
+entry_id,snapshot_date,team,rank,roster,identity_status
+2024-09-04_d4b15f946547_0052,2024-09-04,Monte,52,"DemQQ, hAdji, kRaSnaL, STYKO, Woro2k",ambiguous_core_match
+2024-09-04_d4b15f946547_0093,2024-09-04,BLEED,93,"h4rn, hampus, jkaem, nexa, VLDN",ambiguous_core_match
+2024-09-04_d4b15f946547_0115,2024-09-04,Metizport,115,"adamb, Jackinho, nilo, susp, ztr",ambiguous_core_match
+2024-09-04_d4b15f946547_0118,2024-09-04,Fluxo,118,"chayJESUS, Lucaozy, PKL, vsm, zevy",ambiguous_core_match
+2024-09-04_d4b15f946547_0127,2024-09-04,Galorys,127,"delboNi, detr0ittJ, ninjaZ, Tomate, xureba",ambiguous_core_match
+2024-09-04_d4b15f946547_0153,2024-09-04,Bad News Kangaroos,153,"ADDICT, BRACE, damyo, hazr, pz",ambiguous_core_match
+2024-09-04_d4b15f946547_0172,2024-09-04,Rhyno,172,"Ag1l, krazy, NOPEEJ, P3R3IIRA, snapy",ambiguous_core_match
+2024-09-04_d4b15f946547_0215,2024-09-04,Limitless,215,"Cyrix, DJF, Sandman, Seb, Wolffe",ambiguous_core_match
+2024-10-02_c450e9f25a71_0054,2024-10-02,BLEED,54,"CYPHER, jkaem, nawwk, Patti, VLDN",ambiguous_core_match
+2024-10-02_c450e9f25a71_0071,2024-10-02,Party Astronauts,71,"ben1337, FaNg, Infinite, ogwizard, Peeping",ambiguous_core_match
+2024-10-02_c450e9f25a71_0092,2024-10-02,Rhyno,92,"Ag1l, krazy, rafaxF, snapy, TMKj",ambiguous_core_match
+2024-10-02_c450e9f25a71_0113,2024-10-02,BLEED,113,"CeRq, CYPHER, faveN, hampus, VLDN",ambiguous_core_match
+2024-10-02_c450e9f25a71_0124,2024-10-02,ex-Enterprise,124,"Demho, ex1st, mwlky, sk1tt, Sobol",ambiguous_core_match
+2024-10-02_c450e9f25a71_0141,2024-10-02,EYEBALLERS,141,"delle, dex, HEAP, JW, poiii",ambiguous_core_match
+2024-10-02_c450e9f25a71_0164,2024-10-02,LAG,164,"based, Experative, nicx, Nyyx, ogwizard",ambiguous_core_match
+2024-10-02_c450e9f25a71_0194,2024-10-02,Solid,194,"ALLE, CSO, gbb, Lcm, xureba",ambiguous_core_match
+2024-11-06_014bbc5be793_0035,2024-11-06,UNPAID,35,"CYPHER, h4rn, jkaem, nexa, VLDN",ambiguous_core_match
+2024-11-06_014bbc5be793_0104,2024-11-06,CPH Wolves,104,"BøghmagiC, Fessor, sense, szejn, Tapewaare",ambiguous_core_match
+2024-11-06_014bbc5be793_0115,2024-11-06,BLEED,115,"CYPHER, faveN, hampus, jkaem, nawwk",ambiguous_core_match
+2024-11-06_014bbc5be793_0134,2024-11-06,CPH Wolves,134,"aNdu, eraa, MAGILA, szejn, Tapewaare",ambiguous_core_match
+2025-01-06_f52e76eb1a3e_0043,2025-01-06,PEGADA,43,"Linko, NOPEEJ, pr, rafaxF, snapy",ambiguous_core_match
+2025-01-06_f52e76eb1a3e_0068,2025-01-06,Aurora,68,"clax, gr1ks, KENSI, Norwi, Patsi",ambiguous_core_match
+2025-01-06_f52e76eb1a3e_0106,2025-01-06,Illuminar,106,"AntyVirus, discoStar, Furlan, kadziu, SpavaQu",ambiguous_core_match
+2025-01-06_f52e76eb1a3e_0120,2025-01-06,Insilio,120,"dwushka, faydett, kelieN, mo0N, sugaR",ambiguous_core_match
+2025-01-06_f52e76eb1a3e_0141,2025-01-06,vagrants,141,"Cyrix, mason, micro, Sandman, Seb",ambiguous_core_match
+2025-01-06_f52e76eb1a3e_0166,2025-01-06,Illuminar,166,"b1elany, Furlan, kadziu, keis, m4tthi",ambiguous_core_match
+2025-01-06_f52e76eb1a3e_0183,2025-01-06,Limitless,183,"Aureo, DJF, Sandman, Seb, Wolffe",ambiguous_core_match
+2025-02-03_b86e8fe6e487_0013,2025-02-03,GamerLegion,13,"PR, REZ, sl3nd, Tauson, ztr",ambiguous_core_match
+2025-02-03_b86e8fe6e487_0093,2025-02-03,adalYamigos,93,"cass1n, ckzao, delboNi, f4stzin, SHOOWTiME",ambiguous_core_match
+2025-02-03_b86e8fe6e487_0096,2025-02-03,9INE,96,"mantuu, misutaaa, raalz, refrezh, s0und",ambiguous_core_match
+2025-02-03_b86e8fe6e487_0115,2025-02-03,CPH Wolves,115,"aNdu, b1elany, Jackinho, szejn, Tapewaare",ambiguous_core_match
+2025-02-03_b86e8fe6e487_0131,2025-02-03,CPH Wolves,131,"eraa, Fessor, sausol, szejn, Tapewaare",ambiguous_core_match
+2025-02-03_b86e8fe6e487_0163,2025-02-03,timbermen,163,"aleph, dare, nero, shane, snav",ambiguous_core_match
+2025-02-03_b86e8fe6e487_0166,2025-02-03,Party Astronauts,166,"ben1337, cxzi, FaNg, Infinite, WolfY",ambiguous_core_match
+2025-02-03_b86e8fe6e487_0183,2025-02-03,LAG,183,"Experative, SnacKZ1, spud, TR0JN, Weeza",ambiguous_core_match
+2025-03-03_355f0eedee68_0054,2025-03-03,Poland fe,54,"Angelka, Hanka, LETi, Liina, vicu",ambiguous_core_match
+2025-03-03_355f0eedee68_0060,2025-03-03,Monte,60,"DemQQ, dycha, hades, KEi, kRaSnaL",ambiguous_core_match
+2025-03-03_355f0eedee68_0066,2025-03-03,Permitta,66,"bnox, fr3nd, maaryy, mASKED, tomiko",ambiguous_core_match
+2025-03-03_355f0eedee68_0094,2025-03-03,Eco Warriors,94,"Angelka, D7, juliano, kyossa, vicu",ambiguous_core_match
+2025-03-03_355f0eedee68_0130,2025-03-03,Nouns,130,"cJ dA K1nG, Jeorge, junior, nosraC, RUSH",ambiguous_core_match
+2025-03-03_355f0eedee68_0137,2025-03-03,PARIVISION,137,"alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert",ambiguous_core_match
+2025-03-03_355f0eedee68_0177,2025-03-03,Bad News Chickens,177,"Alisson, desh, Leomonster, short, skr",ambiguous_core_match
+2025-03-03_355f0eedee68_0211,2025-03-03,undefined,211,"BeaKie, chop, CLASIA, motm, stamina",ambiguous_core_match
+2025-03-03_355f0eedee68_0245,2025-03-03,ESC,245,"AMSALEM, bajmi, maaryy, mASKED, SaMey",ambiguous_core_match
+2025-03-03_355f0eedee68_0252,2025-03-03,Elevate,252,"diozera, fREQ, lash, short, zede",ambiguous_core_match
+2025-04-07_d8db43150878_0093,2025-04-07,Gaimin Gladiators,93,"kraghen, nicoodoz, Nodios, Queenix, roeJ",ambiguous_core_match
+2025-04-07_d8db43150878_0099,2025-04-07,Swingers,99,"desh, MaLLby, ninjaZ, ponter, vinaabEAST",ambiguous_core_match
+2025-04-07_d8db43150878_0196,2025-04-07,WildLotus,196,"b0RUP, birdfromsky, CRUC1AL, Keoz, Vegi",ambiguous_core_match
+2025-04-07_d8db43150878_0204,2025-04-07,Hype,204,"history, leo_drk, ninjaZ, redi, vinaabEAST",ambiguous_core_match
+2025-04-07_d8db43150878_0213,2025-04-07,Into the Breach,213,"hAdji, Keoz, REDSTAR, sinnopsyy, smooya",ambiguous_core_match
+2025-04-07_d8db43150878_0228,2025-04-07,UNO MILLE,228,"bsd, happ, Leomonster, realz1n, zmb",ambiguous_core_match
+2025-04-07_d8db43150878_0251,2025-04-07,HOTU,251,"anttzz, fineshine52, kade0, lampada, Re1GN",ambiguous_core_match
+2025-04-07_d8db43150878_0266,2025-04-07,Floripa Stars,266,"ALENNNCAR, BALEROSTYLE, CaPiM, Lukita, vzn",ambiguous_core_match
+2025-05-05_1994c553bf1c_0053,2025-05-05,Passion UA,53,"DemQQ, jackasmo, Kvem, Topa, Woro2k",ambiguous_core_match
+2025-05-05_1994c553bf1c_0073,2025-05-05,HEROIC,73,"degster, kyxsan, NertZ, sjuush, TeSeS",ambiguous_core_match
+2025-05-05_1994c553bf1c_0081,2025-05-05,Nouns,81,"CLASIA, Cryptic, dottie, junior, nomizz",ambiguous_core_match
+2025-05-05_1994c553bf1c_0087,2025-05-05,Mindfreak,87,"Crunchy, Forleks, kairo, Texta, tucks",ambiguous_core_match
+2025-05-05_1994c553bf1c_0097,2025-05-05,Monte,97,"afro, Gizmy, hAdji, leen, ryu",ambiguous_core_match
+2025-05-05_1994c553bf1c_0105,2025-05-05,Passion UA,105,"fear, jackasmo, jambo, s-chilla, zeRRoFIX",ambiguous_core_match
+2025-05-05_1994c553bf1c_0132,2025-05-05,NAVI Javelins,132,"Angelka, ASTRA, D7, Hanka, vicu",ambiguous_core_match
+2025-05-05_1994c553bf1c_0134,2025-05-05,Nouns,134,"cJ dA K1nG, junior, nicx, Peeping, RUSH",ambiguous_core_match
+2025-05-05_1994c553bf1c_0140,2025-05-05,fnatic,140,"blameF, bodyy, KRIMZ, MATYS, nawwk",ambiguous_core_match
+2025-06-02_82e4f63c6479_0010,2025-06-02,FaZe,10,"EliGE, frozen, karrigan, s1mple, skullz",ambiguous_core_match
+2025-06-02_82e4f63c6479_0100,2025-06-02,RED Canids,100,"coldzera, drop, kauez, ponter, venomzera",ambiguous_core_match
+2025-06-02_82e4f63c6479_0141,2025-06-02,UNiTY,141,"darber, K1-FiDa, NEOFRAG, PerdY, woozzzi",ambiguous_core_match
+2025-06-02_82e4f63c6479_0142,2025-06-02,WildLotus,142,"birdfromsky, Keoz, REDSTAR, smooya, Vegi",ambiguous_core_match
+2025-06-02_82e4f63c6479_0186,2025-06-02,LA MASIA,186,"Jayy2s, Mané, NOPEEJ, Pedrinho2011, snapy",ambiguous_core_match
+2025-07-07_ff9e6f3ba59e_0073,2025-07-07,Monte,73,"afro, Bymas, Djoko, Gizmy, ryu",ambiguous_core_match
+2025-07-07_ff9e6f3ba59e_0086,2025-07-07,CPH Wolves,86,"b1elany, Jorko, Matheos, n1Xen, Tapewaare",ambiguous_core_match
+2025-07-07_ff9e6f3ba59e_0107,2025-07-07,Party Astronauts,107,"Austin, ben1337, kmrn, ogwizard, sacrifice",ambiguous_core_match
+2025-07-07_ff9e6f3ba59e_0126,2025-07-07,CPH Wolves,126,"aNdu, b1elany, Jackinho, szejn, Tapewaare",ambiguous_core_match
+2025-07-07_ff9e6f3ba59e_0131,2025-07-07,Akimbo,131,"laxiee, N2o, obi, piupiupiu, Zamgaa",ambiguous_core_match
+2025-07-07_ff9e6f3ba59e_0188,2025-07-07,GameHunters,188,"abr, mello, nolkz, prt, slashzz",ambiguous_core_match
+2025-07-07_ff9e6f3ba59e_0192,2025-07-07,Victores Sumus,192,"Benzene, clouda, EmbeR, RaYzEr, reV3nnnn",ambiguous_core_match
+2025-08-04_36df65cea9ea_0012,2025-08-04,G2,12,"HeavyGod, huNter-, malbsMd, MATYS, SunPayus",ambiguous_core_match
+2025-08-04_36df65cea9ea_0042,2025-08-04,OG,42,"adamb, arrozdoce, Chr1zN, nicoodoz, spooke",ambiguous_core_match
+2025-08-04_36df65cea9ea_0046,2025-08-04,Fluxo,46,"arT, decenty, kye, Lucaozy, zevy",ambiguous_core_match
+2025-08-04_36df65cea9ea_0074,2025-08-04,Getting Info,74,"dare, MarKE, shane, slump, snav",ambiguous_core_match
+2025-08-04_36df65cea9ea_0078,2025-08-04,BLUEJAYS,78,"dare, freshie, Fruitcupx, SLIGHT, snav",ambiguous_core_match
+2025-08-04_36df65cea9ea_0119,2025-08-04,BOSS,119,"ben1337, Bwills, d4rty, Fruitcupx, SLIGHT",ambiguous_core_match
+2025-08-04_36df65cea9ea_0150,2025-08-04,ex-W7M,150,"b4rtiN, bsd, JOTA, NEKIZ, shz",ambiguous_core_match
+2025-08-04_36df65cea9ea_0154,2025-08-04,UNiTY,154,"K1-FiDa, Levi, NEOFRAG, Pechyn, woozzzi",ambiguous_core_match
+2025-08-04_36df65cea9ea_0166,2025-08-04,UNO MILLE,166,"Leomonster, r4ul, realz1n, remix, zmb",ambiguous_core_match
+2025-08-04_36df65cea9ea_0175,2025-08-04,ODDIK,175,"Ceruttera, matios, naitte, togs, WOOD7",ambiguous_core_match
+2025-08-04_36df65cea9ea_0188,2025-08-04,Mindfreak,188,"Crunchy, kairo, swerzieN, tucks, zune",ambiguous_core_match
+2025-08-04_36df65cea9ea_0207,2025-08-04,AMKAL,207,"AW, eksiver, kAlash, molodoy, sFade8",ambiguous_core_match
+2025-08-04_36df65cea9ea_0247,2025-08-04,Fisher College,247,"AlekS, corn, CrePoW, ReFuZR, tatm",ambiguous_core_match
+2025-08-04_36df65cea9ea_0255,2025-08-04,Outfit 49,255,"6SIX, bezymecc, H0NeST, KmZ, marekiew",ambiguous_core_match
+2025-09-01_dd658082406b_0049,2025-09-01,BC.Game,49,"aNdu, CacaNito, nexa, pr1metapz, s1mple",ambiguous_core_match
+2025-09-01_dd658082406b_0070,2025-09-01,Johnny Speeds,70,"draken, Lekr0, Sapec, Svedjehed",incomplete_roster
+2025-09-01_dd658082406b_0087,2025-09-01,500,87,"CeRq, hampus, Rainwaker, REDSTAR, volt",ambiguous_core_match
+2025-09-01_dd658082406b_0107,2025-09-01,TBO,107,"B1NGO, lan, Roninbaby",incomplete_roster
+2025-09-01_dd658082406b_0117,2025-09-01,Famalicão,117,"h0t, M1KA, opdust, snowiee",incomplete_roster
+2025-09-01_dd658082406b_0121,2025-09-01,AMKAL,121,"iDISBALANCE, KaiR0N-, nafany, sstiNiX, TRAVIS",ambiguous_core_match
+2025-09-01_dd658082406b_0122,2025-09-01,Bounty Hunters,122,"fREQ, KAISER, Tuurtle, zock",incomplete_roster
+2025-09-01_dd658082406b_0123,2025-09-01,ALLINNERS,123,"demente, noni, wEAVER",incomplete_roster
+2025-09-01_dd658082406b_0133,2025-09-01,Just Swing,133,"gas, Purely, qqGOD, sATOR1",incomplete_roster
+2025-09-01_dd658082406b_0137,2025-09-01,DEPO,137,"dako, icyvl0ne, wetfy",incomplete_roster
+2025-09-01_dd658082406b_0149,2025-09-01,FUT,149,"devoduvek, drac, JACKZ, misutaaa",incomplete_roster
+2025-09-01_dd658082406b_0154,2025-09-01,MONEY CREW,154,"N2o, obi, Zamgaa",incomplete_roster
+2025-09-01_dd658082406b_0157,2025-09-01,Legion,157,"Bloody, PokemoN, SOULM8",incomplete_roster
+2025-09-01_dd658082406b_0172,2025-09-01,LA MASIA,172,"Jayy2s, Linko, NOPEEJ, rafaxF, snapy",ambiguous_core_match
+2025-09-01_dd658082406b_0179,2025-09-01,Vagrants,179,"brett, Cyrix, mason, Sandman, Seb",ambiguous_core_match
+2025-09-01_dd658082406b_0186,2025-09-01,The QUBE,186,"Aceari, Kamui, soloooS",incomplete_roster
+2025-09-01_dd658082406b_0190,2025-09-01,Bad Luck,190,"ALENNNCAR, Lcs, Lukita, pkN, vzn",ambiguous_core_match
+2025-09-01_dd658082406b_0201,2025-09-01,Floripa Stars,201,"ALENNNCAR, BRNZ1K, Lukita, s1cko, sakamoto",ambiguous_core_match
+2025-09-01_dd658082406b_0204,2025-09-01,adalYamigos,204,"ckzao, delboNi, f4stzin, SHOOWTiME",incomplete_roster
+2025-09-01_dd658082406b_0206,2025-09-01,MEGA JUNERS,206,"ARIANARCHIST, AuroraVeee, Junie, Lexa",incomplete_roster
+2025-09-01_dd658082406b_0207,2025-09-01,Quem Sao Elas,207,"annaEX, Babs, josi",incomplete_roster
+2025-09-01_dd658082406b_0211,2025-09-01,Roler Coaster,211,"d1Ledez, KaiR0N-, n0rb3r7, nafany",incomplete_roster
+2025-09-01_dd658082406b_0212,2025-09-01,Preasy,212,"AcilioN, Griller, niko, qx",incomplete_roster
+2025-09-01_dd658082406b_0220,2025-09-01,Victores Sumus,220,"Benzene, ChAmP, RaYzEr, Recoilmaster",incomplete_roster
+2025-09-01_dd658082406b_0223,2025-09-01,SKYFURY,223,"7oX1C, Kiy0o, shield",incomplete_roster
+2025-09-01_dd658082406b_0224,2025-09-01,Aether,224,"arias, clipzera, micro, Tender",incomplete_roster
+2025-09-01_dd658082406b_0227,2025-09-01,Inner Circle,227,"KEi, kRaSnaL, Kylar, mynio",incomplete_roster
+2025-09-01_dd658082406b_0228,2025-09-01,Take Flyte,228,"Crisp, huncho, Panic",incomplete_roster
+2025-09-01_dd658082406b_0235,2025-09-01,Illuminar,235,"AxEcHo, Furlan, Pelle, SpavaQu",incomplete_roster
+2025-09-01_dd658082406b_0240,2025-09-01,benched,240,"FinigaN, Pipw, z1k4",incomplete_roster
+2025-09-01_dd658082406b_0241,2025-09-01,ex-Permitta,241,"fostar, Kre1N, Orbit, Twiksar",incomplete_roster
+2025-09-01_dd658082406b_0247,2025-09-01,Wildcard Academy,247,"fr3nd, sSen, T4gg3D, TMKj, Wonder",ambiguous_core_match
+2025-09-01_dd658082406b_0250,2025-09-01,Daaku,250,"dottie, nomizz, rain, Weeza",incomplete_roster
+2025-09-01_dd658082406b_0251,2025-09-01,GATERON,251,"DimSuM, Kon, Pupu, zyHan",incomplete_roster
+2025-09-01_dd658082406b_0254,2025-09-01,Outfit 49,254,"bezymecc, H0NeST, marekiew",incomplete_roster
+2025-09-01_dd658082406b_0255,2025-09-01,Vantage,255,"Drox, Jynx, Mingovi, supar",incomplete_roster
+2025-09-01_dd658082406b_0256,2025-09-01,Back2TheGame,256,"AdrieN, chudy, Nami",incomplete_roster
+2025-09-01_dd658082406b_0260,2025-09-01,NuTorious,260,"Jr24racing, looke, Msaia, Toasty",incomplete_roster
+2025-09-01_dd658082406b_0262,2025-09-01,Preasy,262,Patti,incomplete_roster
+2025-09-01_dd658082406b_0265,2025-09-01,Aether,265,"denz, MJB, Pr0mise, SolGoat",incomplete_roster
+2025-09-01_dd658082406b_0266,2025-09-01,Lazer Cats,266,"Magic, MAGILA, nikitea, yab0ku-",incomplete_roster
+2025-09-01_dd658082406b_0268,2025-09-01,EYEBALLERS,268,"delle, dex, HEAP, JW, poiii",ambiguous_core_match
+2025-09-01_dd658082406b_0270,2025-09-01,DOG,270,"Kiyo, lucas222, Xiaobao",incomplete_roster
+2025-10-06_f34511ea9e70_0066,2025-10-06,CYBERSHOKE,66,"bl1x1, FenomeN, glowiing, notineki",incomplete_roster
+2025-10-06_f34511ea9e70_0067,2025-10-06,GUN5,67,"gr1ks, Sdaim, SELLTER, tex1y, yiksrezo",ambiguous_core_match
+2025-10-06_f34511ea9e70_0088,2025-10-06,Eruption,88,"fury5k, MagnumZ, sideffect, xenization",incomplete_roster
+2025-10-06_f34511ea9e70_0092,2025-10-06,Betclic,92,"AdrieN, Demho, dycha, Melavi, Prism",ambiguous_core_match
+2025-10-06_f34511ea9e70_0093,2025-10-06,9BOOMPRO,93,"Ax1Le, FL4MUS, shalfey, zorte",incomplete_roster
+2025-10-06_f34511ea9e70_0101,2025-10-06,Tricked,101,"kroK, leakz, niko, salazar",incomplete_roster
+2025-10-06_f34511ea9e70_0116,2025-10-06,Dashskins,116,"Alisson, divine, happ, Leomonster, zmb",ambiguous_core_match
+2025-10-06_f34511ea9e70_0127,2025-10-06,Last Bullet,127,"B1NGO, flying, lan, Roninbaby",incomplete_roster
+2025-10-06_f34511ea9e70_0131,2025-10-06,Sangal,131,"Blytz, bnox, danistzz, maaryy, mASKED",ambiguous_core_match
+2025-10-06_f34511ea9e70_0133,2025-10-06,ALLINNERS,133,"Botpa1, demente, noni, wEAVER",incomplete_roster
+2025-10-06_f34511ea9e70_0135,2025-10-06,BLUEJAYS,135,"CLASIA, Cryptic, junior",incomplete_roster
+2025-10-06_f34511ea9e70_0140,2025-10-06,SENZA,140,"bogemt, drowranger, sn0w dll, SP1NT, whsup",ambiguous_core_match
+2025-10-06_f34511ea9e70_0142,2025-10-06,Imperial Valkyries,142,"ANa, Kat, tory, twenty3, zAAz",ambiguous_core_match
+2025-10-06_f34511ea9e70_0166,2025-10-06,MONEY CREW,166,"N2o, obi, Zamgaa",incomplete_roster
+2025-10-06_f34511ea9e70_0174,2025-10-06,Bounty Hunters,174,"KAISER, Tuurtle, zock",incomplete_roster
+2025-10-06_f34511ea9e70_0175,2025-10-06,The Glecs,175,"crickeyyy, hodix, jackast, neiter, nukkye",ambiguous_core_match
+2025-10-06_f34511ea9e70_0182,2025-10-06,CSDIILIT,182,"8Juho8, jalwar, Myggis, Rejoiner",incomplete_roster
+2025-10-06_f34511ea9e70_0195,2025-10-06,The Art of War,195,"BaN4na, Oath, Terryyy, viridian",incomplete_roster
+2025-10-06_f34511ea9e70_0197,2025-10-06,Take Flyte,197,"Crisp, huncho, Panic",incomplete_roster
+2025-10-06_f34511ea9e70_0199,2025-10-06,Chicken Coop,199,"BAGEL, BiNoX, FRIZZY, taggy",incomplete_roster
+2025-10-06_f34511ea9e70_0200,2025-10-06,Nocturnal,200,"gadfly, lunari, raynee, violet",incomplete_roster
+2025-10-06_f34511ea9e70_0201,2025-10-06,Roler Coaster,201,"d1Ledez, KaiR0N-, n0rb3r7, nafany",incomplete_roster
+2025-10-06_f34511ea9e70_0202,2025-10-06,ex-SABRE,202,"fakerealityy, hodix, jackast, neiter, tripex17",ambiguous_core_match
+2025-10-06_f34511ea9e70_0203,2025-10-06,Alter Ego,203,"b1lal, BnTeT, tomiko",incomplete_roster
+2025-10-06_f34511ea9e70_0206,2025-10-06,BIG EQUIPA,206,"pauliiee, pullox, Zana",incomplete_roster
+2025-10-06_f34511ea9e70_0208,2025-10-06,Akimbo,208,"laxiee, N2o, obi, zy",incomplete_roster
+2025-10-06_f34511ea9e70_0210,2025-10-06,Outfit 49,210,"bezymecc, H0NeST, KmZ",incomplete_roster
+2025-10-06_f34511ea9e70_0212,2025-10-06,Preasy,212,"AcilioN, Griller, niko, qx",incomplete_roster
+2025-10-06_f34511ea9e70_0214,2025-10-06,SKYFURY,214,"7oX1C, Kiy0o, shield",incomplete_roster
+2025-10-06_f34511ea9e70_0221,2025-10-06,Shika,221,"ImpressioN, jiejie, splashske, Zy88",incomplete_roster
+2025-10-06_f34511ea9e70_0224,2025-10-06,ex-Permitta,224,"fostar, Kre1N, Orbit, Twiksar",incomplete_roster
+2025-10-06_f34511ea9e70_0230,2025-10-06,Messitas,230,"armk4m, chjna, Flossie, valulu",incomplete_roster
+2025-10-06_f34511ea9e70_0233,2025-10-06,True Thunder,233,"Bhavi, f1redup, Ph1NNN, Rossi",incomplete_roster
+2025-10-06_f34511ea9e70_0235,2025-10-06,Daaku,235,"dottie, nomizz, Weeza",incomplete_roster
+2025-10-06_f34511ea9e70_0238,2025-10-06,GLORE,238,"DEPRESHN, HENU, M1key",incomplete_roster
+2025-10-06_f34511ea9e70_0239,2025-10-06,GATERON,239,"DimSuM, Kon, Pupu, zyHan",incomplete_roster
+2025-10-06_f34511ea9e70_0241,2025-10-06,DOG,241,"Kiyo, lucas222, Xiaobao",incomplete_roster
+2025-11-03_59453cc714d5_0038,2025-11-03,BIG,38,"FreeZe, gr1ks, JDC, prosus, tabseN",ambiguous_core_match
+2025-11-03_59453cc714d5_0075,2025-11-03,500,75,"CeRq, Rainwaker, REDSTAR, volt",incomplete_roster
+2025-11-03_59453cc714d5_0080,2025-11-03,FaZe,80,"EliGE, frozen, karrigan, rain, s1mple",ambiguous_core_match
+2025-11-03_59453cc714d5_0093,2025-11-03,9BOOMPRO,93,"Ax1Le, FL4MUS, shalfey, zorte",incomplete_roster
+2025-11-03_59453cc714d5_0117,2025-11-03,HOTU,117,"dukefissura, frontales, kade0, lampada, mizu",ambiguous_core_match
+2025-11-03_59453cc714d5_0143,2025-11-03,ex-Chicken Coop,143,"Gabe, jchancE, mds, REKMEISTER",incomplete_roster
+2025-11-03_59453cc714d5_0146,2025-11-03,DEPO,146,"dako, icyvl0ne, shoxs, wetfy",incomplete_roster
+2025-11-03_59453cc714d5_0149,2025-11-03,The QUBE,149,"Cozen, Kamui, Paranormal, soloooS",incomplete_roster
+2025-11-03_59453cc714d5_0151,2025-11-03,Betclic,151,"AdrieN, Demho, hypex, Prism, wizzhehe",ambiguous_core_match
+2025-11-03_59453cc714d5_0162,2025-11-03,QMISTRY,162,"Fugor, keis, Masi",incomplete_roster
+2025-11-03_59453cc714d5_0168,2025-11-03,Johnny Speeds,168,"draken, MaiL09, Sapec, SHiNE, Svedjehed",ambiguous_core_match
+2025-11-03_59453cc714d5_0176,2025-11-03,BLUEJAYS,176,"CLASIA, Cryptic, junior",incomplete_roster
+2025-11-03_59453cc714d5_0191,2025-11-03,The Glecs,191,"crickeyyy, hAw, hodix, jackast, mad1nho",ambiguous_core_match
+2025-11-03_59453cc714d5_0208,2025-11-03,888aura,208,"aiveri, Nem1za, suns1de, unknxwn",incomplete_roster
+2025-11-03_59453cc714d5_0211,2025-11-03,CSDIILIT,211,"8Juho8, joeski, Myggis, Rejoiner",incomplete_roster
+2025-11-03_59453cc714d5_0217,2025-11-03,Alter Ego,217,"b1lal, BnTeT, tomiko",incomplete_roster
+2025-11-03_59453cc714d5_0228,2025-11-03,Outfit 49,228,"bezymecc, H0NeST, KmZ",incomplete_roster
+2025-11-03_59453cc714d5_0232,2025-11-03,ROSY,232,"1nhuman, bogemt, byek, forzetsky",incomplete_roster
+2025-11-03_59453cc714d5_0236,2025-11-03,Change The Game,236,"957, Hack1ng, LaiKeXu, Zero",incomplete_roster
+2025-11-03_59453cc714d5_0237,2025-11-03,LAG,237,"Andrew, brett, mason, Sandman, Wolffe",ambiguous_core_match
+2025-11-03_59453cc714d5_0238,2025-11-03,Preasy,238,"AcilioN, Griller, niko, qx",incomplete_roster
+2025-11-03_59453cc714d5_0241,2025-11-03,TSG,241,"Brashi, den1ed, HorizoN, VulcaN",incomplete_roster
+2025-11-03_59453cc714d5_0243,2025-11-03,AaB,243,"Boye, Patti, Viggo",incomplete_roster
+2025-11-03_59453cc714d5_0247,2025-11-03,Shika,247,"ImpressioN, jiejie, splashske, Zy88",incomplete_roster
+2025-11-03_59453cc714d5_0250,2025-11-03,ex-Permitta,250,"fostar, Kre1N, Orbit, Twiksar",incomplete_roster
+2025-11-03_59453cc714d5_0252,2025-11-03,shinigami,252,"akiyanora, mb1w, metori, turboxgirl",incomplete_roster
+2025-11-03_59453cc714d5_0257,2025-11-03,GLORE,257,"DEPRESHN, HENU, M1key, neptun",incomplete_roster
+2025-11-03_59453cc714d5_0259,2025-11-03,Hesta,259,"abiraju, anttzz, frontales, Muk0s, slaxejezzz",ambiguous_core_match
+2025-11-03_59453cc714d5_0260,2025-11-03,DOG,260,"Kiyo, lucas222, Xiaobao",incomplete_roster
+2025-12-01_31eac407dd39_0069,2025-12-01,Partizan,69,"aidKiT, choiv7, Kind0, VLDN, xavi",ambiguous_core_match
+2025-12-01_31eac407dd39_0080,2025-12-01,ODDIK,80,"coldzera, ksloks, naitte, WOOD7",incomplete_roster
+2025-12-01_31eac407dd39_0110,2025-12-01,Partizan,110,"c0llins, DEPRESHN, Dragon, Kind0, VLDN",ambiguous_core_match
+2025-12-01_31eac407dd39_0127,2025-12-01,Skinsauna,127,"allu, HENU, Jelo",incomplete_roster
+2025-12-01_31eac407dd39_0157,2025-12-01,Dziuseppe,157,"keis, virtuoso, Xydoo",incomplete_roster
+2025-12-01_31eac407dd39_0164,2025-12-01,Getting Info,164,"dare, MarKE, shane, slump, snav",ambiguous_core_match
+2025-12-01_31eac407dd39_0165,2025-12-01,Virtus.pro,165,"electroNic, fame, FL1T, FL4MUS, ICY",ambiguous_core_match
+2025-12-01_31eac407dd39_0166,2025-12-01,Tricked,166,"kroK, leakz, niko, Nodios, salazar",ambiguous_core_match
+2025-12-01_31eac407dd39_0169,2025-12-01,NomadS,169,"clouden, hasteka, HenX, hoolig4n",incomplete_roster
+2025-12-01_31eac407dd39_0175,2025-12-01,DEPO,175,"dako, icyvl0ne, shoxs, wetfy",incomplete_roster
+2025-12-01_31eac407dd39_0187,2025-12-01,OG,187,"Buzz, Chr1zN, F1KU, nicoodoz, spooke",ambiguous_core_match
+2025-12-01_31eac407dd39_0192,2025-12-01,GATERON,192,"Niko, reason, Tw1nk1e17, z1ayr",incomplete_roster
+2025-12-01_31eac407dd39_0193,2025-12-01,FORZE Reload,193,"KusMe, rexxie, rikon, shady, spirit",ambiguous_core_match
+2025-12-01_31eac407dd39_0204,2025-12-01,QMISTRY,204,"Fugor, keis, Masi",incomplete_roster
+2025-12-01_31eac407dd39_0209,2025-12-01,888aura,209,"aiveri, Nem1za, suns1de, unknxwn",incomplete_roster
+2025-12-01_31eac407dd39_0224,2025-12-01,The Glecs,224,"crickeyyy, hAw, hodix, jackast",incomplete_roster
+2025-12-01_31eac407dd39_0229,2025-12-01,IHC,229,"cool4st, rate, shinobi, Veccil, yAmi",ambiguous_core_match
+2025-12-01_31eac407dd39_0234,2025-12-01,Prison Breakers,234,"lash, MaLLby, r3kt, stax",incomplete_roster
+2025-12-01_31eac407dd39_0237,2025-12-01,Chinggis Warriors,237,"ariucle, bkzcurs3d, controlez, Efire, ROUX",ambiguous_core_match
+2025-12-01_31eac407dd39_0239,2025-12-01,Alter Ego,239,"b1lal, BnTeT, tomiko",incomplete_roster
+2025-12-01_31eac407dd39_0245,2025-12-01,Reactor 9,245,"bones, Kermi, neight",incomplete_roster
+2025-12-01_31eac407dd39_0248,2025-12-01,Outfit 49,248,"bezymecc, H0NeST, KmZ",incomplete_roster
+2025-12-01_31eac407dd39_0251,2025-12-01,Outfit 49,251,"LUKE4k, s3rum, sava9e",incomplete_roster
+2025-12-01_31eac407dd39_0252,2025-12-01,BBBMBCBS,252,"ApeX, Fitzy, HaZ, muffin",incomplete_roster
+2025-12-01_31eac407dd39_0255,2025-12-01,ROSY,255,"1nhuman, bogemt, byek, forzetsky",incomplete_roster
+2025-12-01_31eac407dd39_0257,2025-12-01,Reign Above,257,"colin, SayYouWill, SeRCEra, swayu",incomplete_roster
+2025-12-01_31eac407dd39_0258,2025-12-01,paiN Academy,258,"futoi, Markz, Tatu, tsug",incomplete_roster
+2025-12-01_31eac407dd39_0259,2025-12-01,Wildcard Academy,259,"doni, leen, mhL, sSen",incomplete_roster
+2025-12-01_31eac407dd39_0260,2025-12-01,FURY,260,"cheeseball, cookie, rekonz, SkulL",incomplete_roster
+2025-12-01_31eac407dd39_0262,2025-12-01,ex-Inner Circle,262,"hades, Snax, TaZ",incomplete_roster
+2025-12-01_31eac407dd39_0267,2025-12-01,amateurs,267,"akiyanora, mb1w, metori, turboxgirl",incomplete_roster
+2025-12-01_31eac407dd39_0268,2025-12-01,AaB,268,"Boye, Patti, Viggo",incomplete_roster
+2025-12-01_31eac407dd39_0270,2025-12-01,Preasy,270,"AcilioN, Griller, niko, qx",incomplete_roster
+2025-12-01_31eac407dd39_0283,2025-12-01,GLORE,283,"DEPRESHN, HENU, M1key, neptun",incomplete_roster
+2025-12-01_31eac407dd39_0284,2025-12-01,DOG,284,"Kiyo, lucas222, Xiaobao",incomplete_roster
+2026-01-05_cec80ba5a2e3_0093,2026-01-05,ODDIK,93,"coldzera, ksloks, naitte, WOOD7",incomplete_roster
+2026-01-05_cec80ba5a2e3_0104,2026-01-05,FORZE Reload,104,"Goody, KusMe, Something, spirit, youka",ambiguous_core_match
+2026-01-05_cec80ba5a2e3_0107,2026-01-05,ALGO,107,"anber, nopzy, nukkye, Scr0b, szejn",ambiguous_core_match
+2026-01-05_cec80ba5a2e3_0111,2026-01-05,Partizan,111,"aidKiT, c0llins, dan1, Kind0, VLDN",ambiguous_core_match
+2026-01-05_cec80ba5a2e3_0132,2026-01-05,ALLINNERS,132,"buster, demente, kade0, kumao, noni",ambiguous_core_match
+2026-01-05_cec80ba5a2e3_0151,2026-01-05,Rebels,151,"Icarus, NOPEEJ, snapy, stadodo",incomplete_roster
+2026-01-05_cec80ba5a2e3_0155,2026-01-05,AaB,155,"BehinDx, qx, stesso, Viggo",incomplete_roster
+2026-01-05_cec80ba5a2e3_0157,2026-01-05,Impulse GW,157,"rafaxF, Slaxx, Sprayy, Stepa",incomplete_roster
+2026-01-05_cec80ba5a2e3_0167,2026-01-05,QWENTRY,167,"anttzz, eightz999, PsychoDoctor, slaxejezzz, Wadeshot",ambiguous_core_match
+2026-01-05_cec80ba5a2e3_0169,2026-01-05,Dziuseppe,169,"keis, virtuoso, Xydoo",incomplete_roster
+2026-01-05_cec80ba5a2e3_0174,2026-01-05,LAG,174,"consti, djay, kmrn, Sandman",incomplete_roster
+2026-01-05_cec80ba5a2e3_0186,2026-01-05,NomadS,186,"clouden, hasteka, HenX, hoolig4n",incomplete_roster
+2026-01-05_cec80ba5a2e3_0198,2026-01-05,8Sins,198,"Frazehh, Prime, Tadpole",incomplete_roster
+2026-01-05_cec80ba5a2e3_0209,2026-01-05,GATERON,209,"Niko, reason, Tw1nk1e17, z1ayr",incomplete_roster
+2026-01-05_cec80ba5a2e3_0211,2026-01-05,888aura,211,"aiveri, Nem1za, suns1de, unknxwn",incomplete_roster
+2026-01-05_cec80ba5a2e3_0238,2026-01-05,Eternal Fire,238,"bnox, Calyx, imoRR, maaryy, mASKED",ambiguous_core_match
+2026-01-05_cec80ba5a2e3_0239,2026-01-05,The Glecs,239,"crickeyyy, hAw, hodix, jackast",incomplete_roster
+2026-01-05_cec80ba5a2e3_0241,2026-01-05,CALAOSCORNOS,241,"c0mplex, Jayy2s, Mané, MattyMyimb",incomplete_roster
+2026-01-05_cec80ba5a2e3_0247,2026-01-05,Straight2Killin,247,"BeaKie, den1ed, VulcaN",incomplete_roster
+2026-01-05_cec80ba5a2e3_0250,2026-01-05,Prison Breakers,250,"lash, MaLLby, r3kt, stax",incomplete_roster
+2026-01-05_cec80ba5a2e3_0251,2026-01-05,ex-HEROIC Academy,251,"anber, Dengzoe, Few, Scr0b, St0m4k",ambiguous_core_match
+2026-01-05_cec80ba5a2e3_0254,2026-01-05,Haemus,254,"dennyslaw, Duplicate, h4rn, rafftu",incomplete_roster
+2026-01-05_cec80ba5a2e3_0256,2026-01-05,Alter Ego,256,"b1lal, BnTeT, tomiko",incomplete_roster
+2026-01-05_cec80ba5a2e3_0260,2026-01-05,BBBMBCBS,260,"ApeX, Fitzy, HaZ, muffin",incomplete_roster
+2026-01-05_cec80ba5a2e3_0262,2026-01-05,FURY,262,"cheeseball, cookie, rekonz, SkulL",incomplete_roster
+2026-01-05_cec80ba5a2e3_0263,2026-01-05,Wanted Goons,263,"febreeze, Johan, killerPandas, Magic",incomplete_roster
+2026-01-05_cec80ba5a2e3_0265,2026-01-05,Wildcard Academy,265,"doni, leen, mhL, sSen",incomplete_roster
+2026-01-05_cec80ba5a2e3_0267,2026-01-05,Aether,267,"arias, clipzera, micro, Tender",incomplete_roster
+2026-01-05_cec80ba5a2e3_0269,2026-01-05,Aether,269,"arcade, micro, Tender",incomplete_roster
+2026-01-05_cec80ba5a2e3_0270,2026-01-05,paiN Academy,270,"futoi, Markz, Tatu, tsug",incomplete_roster
+2026-01-05_cec80ba5a2e3_0272,2026-01-05,Outfit 49,272,"bezymecc, H0NeST, KmZ",incomplete_roster
+2026-01-05_cec80ba5a2e3_0275,2026-01-05,amateurs,275,"akiyanora, mb1w, metori, turboxgirl",incomplete_roster
+2026-01-05_cec80ba5a2e3_0282,2026-01-05,ex-Inner Circle,282,"hades, Snax, TaZ",incomplete_roster
+2026-01-05_cec80ba5a2e3_0290,2026-01-05,Memeories,290,"AEROj, fatguy, Slugy, Tiski",incomplete_roster
+2026-01-05_cec80ba5a2e3_0291,2026-01-05,GLORE,291,"DEPRESHN, HENU, M1key, neptun",incomplete_roster
+2026-02-02_530d6b034c4b_0049,2026-02-02,Gaimin Gladiators,49,"felps, HEN1, JOTA, Luken, NEKIZ",ambiguous_core_match
+2026-02-02_530d6b034c4b_0092,2026-02-02,Betclic,92,"Demho, Dr3nquu, eskyy, hades, Prism",ambiguous_core_match
+2026-02-02_530d6b034c4b_0100,2026-02-02,FORZE Reload,100,"demente, KusMe, shady, Something, spirit",ambiguous_core_match
+2026-02-02_530d6b034c4b_0130,2026-02-02,Keyd Stars,130,"b4rtiN, CutzMeretz, danoco, lash, t9rnay",ambiguous_core_match
+2026-02-02_530d6b034c4b_0165,2026-02-02,Eternal Fire,165,"Calyx, EMSTAR, lugseN, rigoN, Woro2k",ambiguous_core_match
+2026-02-02_530d6b034c4b_0175,2026-02-02,HEROIC,175,"LNZ, nilo, tN1R, yxngstxr",incomplete_roster
+2026-02-02_530d6b034c4b_0176,2026-02-02,Universe,176,"allu, HENU, Jelo",incomplete_roster
+2026-02-02_530d6b034c4b_0180,2026-02-02,Dziuseppe,180,"keis, virtuoso, Xydoo",incomplete_roster
+2026-02-02_530d6b034c4b_0181,2026-02-02,AaB,181,"BehinDx, qx, stesso, Viggo",incomplete_roster
+2026-02-02_530d6b034c4b_0184,2026-02-02,MIBR,184,"brn$, brnz4n, exit, insani",incomplete_roster
+2026-02-02_530d6b034c4b_0189,2026-02-02,LAG,189,"consti, djay, kmrn, Sandman",incomplete_roster
+2026-02-02_530d6b034c4b_0195,2026-02-02,SAW,195,"blaze, jERK0z, Moretz, tuxa",incomplete_roster
+2026-02-02_530d6b034c4b_0212,2026-02-02,NomadS,212,"clouden, hasteka, HenX, hoolig4n",incomplete_roster
+2026-02-02_530d6b034c4b_0214,2026-02-02,8Sins,214,"Frazehh, Prime, Tadpole",incomplete_roster
+2026-02-02_530d6b034c4b_0217,2026-02-02,ALLINNERS,217,"Botpa1, demente, noni, wEAVER",incomplete_roster
+2026-02-02_530d6b034c4b_0218,2026-02-02,888aura,218,"aiveri, Nem1za, suns1de, unknxwn",incomplete_roster
+2026-02-02_530d6b034c4b_0222,2026-02-02,GATERON,222,"Niko, reason, Tw1nk1e17, z1ayr",incomplete_roster
+2026-02-02_530d6b034c4b_0242,2026-02-02,LAG,242,"brett, mason, Sandman, Wolffe",incomplete_roster
+2026-02-02_530d6b034c4b_0245,2026-02-02,Bad Luck,245,"KLR, Lacerda, sakamoto, Thuister, vzn",ambiguous_core_match
+2026-02-02_530d6b034c4b_0251,2026-02-02,CALAOSCORNOS,251,"c0mplex, Jayy2s, Mané, MattyMyimb",incomplete_roster
+2026-02-02_530d6b034c4b_0253,2026-02-02,GameHunters,253,"abr, diozera, mello, prt, RICIOLI",ambiguous_core_match
+2026-02-02_530d6b034c4b_0257,2026-02-02,rottweilers,257,"h4rn, rafftu, REDSTAR",incomplete_roster
+2026-02-02_530d6b034c4b_0259,2026-02-02,Straight2Killin,259,"BeaKie, den1ed, VulcaN",incomplete_roster
+2026-02-02_530d6b034c4b_0272,2026-02-02,Wildcard Academy,272,"doni, leen, mhL, sSen",incomplete_roster
+2026-02-02_530d6b034c4b_0275,2026-02-02,BBBMBCBS,275,"ApeX, Fitzy, HaZ, muffin",incomplete_roster
+2026-02-02_530d6b034c4b_0276,2026-02-02,The Glecs,276,"crickeyyy, hAw, hodix, jackast",incomplete_roster
+2026-02-02_530d6b034c4b_0277,2026-02-02,FURY,277,"cheeseball, cookie, rekonz, SkulL",incomplete_roster
+2026-02-02_530d6b034c4b_0280,2026-02-02,amateurs,280,"akiyanora, mb1w, metori, turboxgirl",incomplete_roster
+2026-02-02_530d6b034c4b_0283,2026-02-02,Wanted Goons,283,"febreeze, Johan, killerPandas, Magic",incomplete_roster
+2026-02-02_530d6b034c4b_0286,2026-02-02,Aether,286,"arcade, micro, Tender",incomplete_roster
+2026-02-02_530d6b034c4b_0299,2026-02-02,EXSAD,299,"KiMBARREiROS, kWAUR, ThozoR",incomplete_roster
+2026-02-02_530d6b034c4b_0301,2026-02-02,Memeories,301,"AEROj, fatguy, Slugy, Tiski",incomplete_roster
+2026-02-02_530d6b034c4b_0303,2026-02-02,GLORE,303,"DEPRESHN, HENU, M1key, neptun",incomplete_roster
+2026-02-02_530d6b034c4b_0304,2026-02-02,HereWeGoAgain,304,"flush, fraga, Ltm, trindade",incomplete_roster
+2026-02-02_530d6b034c4b_0305,2026-02-02,ex-Inner Circle,305,"hades, Snax, TaZ",incomplete_roster
+2026-02-02_530d6b034c4b_0306,2026-02-02,MAGICOS,306,"Cr1a, Jhones Macarones, rx, snow",incomplete_roster
+2026-02-02_530d6b034c4b_0308,2026-02-02,Charrados,308,"protado, s1lent, space",incomplete_roster
+2026-02-02_530d6b034c4b_0310,2026-02-02,ELITES,310,"Antuanette, BabyRage, Slayerhz, zockie",incomplete_roster
+2026-03-02_871a1d7c6e7b_0021,2026-03-02,B8,21,"alex666, esenthial, kensizor, npl",incomplete_roster
+2026-03-02_871a1d7c6e7b_0053,2026-03-02,CYBERSHOKE,53,"alpha, bl1x1, glowiing, Mokuj1n",incomplete_roster
+2026-03-02_871a1d7c6e7b_0081,2026-03-02,Eternal Fire,81,"DemQQ, EMSTAR, jottAAA, rigoN, Woro2k",ambiguous_core_match
+2026-03-02_871a1d7c6e7b_0126,2026-03-02,SAW,126,"blaze, jERK0z, Moretz, tuxa",incomplete_roster
+2026-03-02_871a1d7c6e7b_0130,2026-03-02,Mindfreak,130,"Crunchy, dpr, sliimey, Texta, zune",ambiguous_core_match
+2026-03-02_871a1d7c6e7b_0138,2026-03-02,RUBY,138,"fozil, H4SAN4TOR, Kaide, maQuein, TruNiQ",ambiguous_core_match
+2026-03-02_871a1d7c6e7b_0159,2026-03-02,Voca,159,"dea, nosraC, shane, slump, snav",ambiguous_core_match
+2026-03-02_871a1d7c6e7b_0184,2026-03-02,Atreides,184,"Chill, dan1, DEPRESHN, Goody",incomplete_roster
+2026-03-02_871a1d7c6e7b_0188,2026-03-02,AaB,188,"bekker, Mol011, qx, stesso, Viggo",ambiguous_core_match
+2026-03-02_871a1d7c6e7b_0190,2026-03-02,BMZ,190,"fury5k, MagnumZ, me1o, rhittacrit, Wonderzce",ambiguous_core_match
+2026-03-02_871a1d7c6e7b_0193,2026-03-02,ALLINNERS,193,"buster, demente, kumao, noni, wEAVER",ambiguous_core_match
+2026-03-02_871a1d7c6e7b_0197,2026-03-02,Rooster,197,"ADK, chelleos, ju1ces, rekonz, SkulL",ambiguous_core_match
+2026-03-02_871a1d7c6e7b_0200,2026-03-02,500,200,"CeRq, kRaSnaL, Rainwaker, REDSTAR, volt",ambiguous_core_match
+2026-03-02_871a1d7c6e7b_0205,2026-03-02,BASEMENT BOYS,205,"Bambosh, levantino, OWNER, Polbandana, Tr0ublE",ambiguous_core_match
+2026-03-02_871a1d7c6e7b_0206,2026-03-02,illwill,206,"7kick, fostar, hAdji, leri511, Maden",ambiguous_core_match
+2026-03-02_871a1d7c6e7b_0209,2026-03-02,MIBR,209,"brn$, brnz4n, exit, insani",incomplete_roster
+2026-03-02_871a1d7c6e7b_0210,2026-03-02,Universe,210,"allu, HENU, Jelo",incomplete_roster
+2026-03-02_871a1d7c6e7b_0211,2026-03-02,Dziuseppe,211,"keis, virtuoso, Xydoo",incomplete_roster
+2026-03-02_871a1d7c6e7b_0214,2026-03-02,ex-KRÜ,214,"1962, laser, reversive, righi, rzk",ambiguous_core_match
+2026-03-02_871a1d7c6e7b_0222,2026-03-02,CSDIILIT,222,"8Juho8, joeski, Myggis, Puteli, Rejoiner",ambiguous_core_match
+2026-03-02_871a1d7c6e7b_0239,2026-03-02,Chinggis Warriors,239,"ariucle, controlez, cool4st, ROUX, yAmi",ambiguous_core_match
+2026-03-02_871a1d7c6e7b_0240,2026-03-02,888aura,240,"aiveri, Nem1za, suns1de, unknxwn",incomplete_roster
+2026-03-02_871a1d7c6e7b_0252,2026-03-02,Bad Luck,252,"ALENNNCAR, sakamoto, space, Thuister",incomplete_roster
+2026-03-02_871a1d7c6e7b_0253,2026-03-02,NomadS,253,"ariucle, clouden, HenX, hoolig4n",incomplete_roster
+2026-03-02_871a1d7c6e7b_0254,2026-03-02,GATERON,254,"Niko, reason, Tw1nk1e17, z1ayr",incomplete_roster
+2026-03-02_871a1d7c6e7b_0264,2026-03-02,rottweilers,264,"h4rn, rafftu, REDSTAR",incomplete_roster
+2026-03-02_871a1d7c6e7b_0271,2026-03-02,OverKnight,271,"4TAYLOR, AMC, Majesticzz, spamzzy",incomplete_roster
+2026-03-02_871a1d7c6e7b_0279,2026-03-02,CALAOSCORNOS,279,"c0mplex, Jayy2s, Mané, MattyMyimb",incomplete_roster
+2026-03-02_871a1d7c6e7b_0280,2026-03-02,yngods,280,"7tetsu, Muk0s, Remill",incomplete_roster
+2026-03-02_871a1d7c6e7b_0283,2026-03-02,VRSoholics,283,"AdrieN, bnox, maaryy, Markoś, mASKED",ambiguous_core_match
+2026-03-02_871a1d7c6e7b_0285,2026-03-02,Straight2Killin,285,"BeaKie, den1ed, VulcaN",incomplete_roster
+2026-03-02_871a1d7c6e7b_0289,2026-03-02,Money Crew,289,"N2o, obi, Zamgaa",incomplete_roster
+2026-03-02_871a1d7c6e7b_0290,2026-03-02,QUAZAR,290,"1zz, gehji, kaiori, newt",incomplete_roster
+2026-03-02_871a1d7c6e7b_0292,2026-03-02,9BOOMPRO,292,"FL4MUS, shalfey, sugaR",incomplete_roster
+2026-03-02_871a1d7c6e7b_0293,2026-03-02,ex-Chicken Coop,293,"Gabe, jchancE, mds, REKMEISTER",incomplete_roster
+2026-03-02_871a1d7c6e7b_0296,2026-03-02,Outfit 49,296,"LUKE4k, s3rum, sava9e",incomplete_roster
+2026-03-02_871a1d7c6e7b_0298,2026-03-02,Wildcard Academy,298,"doni, mhL, sSen",incomplete_roster
+2026-03-02_871a1d7c6e7b_0299,2026-03-02,Mousquetaires,299,"devoduvek, drac, JACKZ, Kyojin, Tarkky",ambiguous_core_match
+2026-03-02_871a1d7c6e7b_0304,2026-03-02,The Glecs,304,"crickeyyy, hAw, hodix, jackast",incomplete_roster
+2026-03-02_871a1d7c6e7b_0305,2026-03-02,ALGO,305,"anber, Dengzoe, Griller, nukkye, Scr0b",ambiguous_core_match
+2026-03-02_871a1d7c6e7b_0310,2026-03-02,Tricked,310,"kroK, leakz, niko, salazar",incomplete_roster
+2026-03-02_871a1d7c6e7b_0312,2026-03-02,LE-LUX,312,"biebs, delkud, luffy, R3XY",incomplete_roster
+2026-03-02_871a1d7c6e7b_0314,2026-03-02,Wanted Goons,314,"febreeze, Johan, killerPandas, Magic",incomplete_roster
+2026-03-02_871a1d7c6e7b_0323,2026-03-02,ReThink,323,"king, p1ke, Rack, zeak",incomplete_roster
+2026-03-02_871a1d7c6e7b_0325,2026-03-02,EXSAD,325,"KiMBARREiROS, kWAUR, ThozoR",incomplete_roster
+2026-03-02_871a1d7c6e7b_0328,2026-03-02,Memeories,328,"AEROj, fatguy, Slugy, Tiski",incomplete_roster
+2026-03-02_871a1d7c6e7b_0329,2026-03-02,GLORE,329,"DEPRESHN, HENU, M1key, neptun",incomplete_roster
+2026-03-02_871a1d7c6e7b_0330,2026-03-02,ex-Inner Circle,330,"hades, Snax, TaZ",incomplete_roster
+2026-03-02_871a1d7c6e7b_0331,2026-03-02,HereWeGoAgain,331,"flush, fraga, Ltm, trindade",incomplete_roster
+2026-03-02_871a1d7c6e7b_0333,2026-03-02,NYX,333,"ADK, jaydee, MamaAlien, PippySippy",incomplete_roster
+2026-03-02_871a1d7c6e7b_0334,2026-03-02,Charrados,334,"protado, s1lent, space",incomplete_roster
+2026-04-06_c660dfc19c91_0036,2026-04-06,illwill,36,"7Kick, dycha, hAdji, Maden, VLDN",ambiguous_core_match
+2026-04-06_c660dfc19c91_0048,2026-04-06,Voca,48,"Infinite, Jeorge, junior, nosraC, snav",ambiguous_core_match
+2026-04-06_c660dfc19c91_0067,2026-04-06,AM,67,"Altekz, k1to, kyuubii, L00m1, myltsi",ambiguous_core_match
+2026-04-06_c660dfc19c91_0080,2026-04-06,CYBERSHOKE,80,"alpha, bl1x1, glowiing, Mokuj1n",incomplete_roster
+2026-04-06_c660dfc19c91_0082,2026-04-06,ex-RUBY,82,"H4SAN4TOR, Kaide, sh1nejezzz, YumsaN",incomplete_roster
+2026-04-06_c660dfc19c91_0094,2026-04-06,Sangal,94,"clax, CYPHER, Patsi, pr1metapz, smooya",ambiguous_core_match
+2026-04-06_c660dfc19c91_0104,2026-04-06,ALGO,104,"anber, aNdu, nukkye, rendysky, szejn",ambiguous_core_match
+2026-04-06_c660dfc19c91_0120,2026-04-06,aAa,120,"AsI0K, devoduvek, SIXER, SLIE9000, Tarkky",ambiguous_core_match
+2026-04-06_c660dfc19c91_0125,2026-04-06,STATE,125,"kwezz, Patti, thamlike, Zanto",incomplete_roster
+2026-04-06_c660dfc19c91_0136,2026-04-06,BOSS,136,"ben1337, Bwills, marekiew, SLIGHT, WUMBO",ambiguous_core_match
+2026-04-06_c660dfc19c91_0143,2026-04-06,Keyd Stars,143,"CutzMeretz, lash, matios, t9rnay, xureba",ambiguous_core_match
+2026-04-06_c660dfc19c91_0159,2026-04-06,Fuzos,159,"Mané, rafaxF, Slaxx, Stepa",incomplete_roster
+2026-04-06_c660dfc19c91_0160,2026-04-06,FengDa,160,"3gl, afufu, p5p, Trash, zy",ambiguous_core_match
+2026-04-06_c660dfc19c91_0165,2026-04-06,The Night Club,165,"Arielek, Kamo, patrikinho",incomplete_roster
+2026-04-06_c660dfc19c91_0169,2026-04-06,AM,169,"2high, Altekz, delle, gxx-, k1to",ambiguous_core_match
+2026-04-06_c660dfc19c91_0176,2026-04-06,8Sins,176,"dobbo, Frazehh, Prime, Tadpole",incomplete_roster
+2026-04-06_c660dfc19c91_0179,2026-04-06,Metizport,179,"Dragon, isak, Jackinho, MaiL09, nawwk",ambiguous_core_match
+2026-04-06_c660dfc19c91_0191,2026-04-06,Haunted House,191,"fr0k, icyvl0ne, malinov",incomplete_roster
+2026-04-06_c660dfc19c91_0209,2026-04-06,METANOIA Wolves,209,"Lcs, sakamoto, spinnie, Thuister, vzn",ambiguous_core_match
+2026-04-06_c660dfc19c91_0213,2026-04-06,Keyd Stars,213,"b4rtiN, CutzMeretz, danoco, lash, t9rnay",ambiguous_core_match
+2026-04-06_c660dfc19c91_0223,2026-04-06,yngods,223,"7tetsu, Muk0s, Remill",incomplete_roster
+2026-04-06_c660dfc19c91_0232,2026-04-06,Betera,232,"h1te, MaSvAl, synyx, tENZY, Vert",ambiguous_core_match
+2026-04-06_c660dfc19c91_0239,2026-04-06,Endless Journey,239,"deb0, pavlysha666, sstiNiX, swetsi",incomplete_roster
+2026-04-06_c660dfc19c91_0240,2026-04-06,Enjoy,240,"nbl, roxesz, sh1geo, zazzer",incomplete_roster
+2026-04-06_c660dfc19c91_0243,2026-04-06,Players,243,"Lich, MITHPUTTINI, souz4h, xns",incomplete_roster
+2026-04-06_c660dfc19c91_0244,2026-04-06,regain,244,"dvrk, fuzenko, sasha, Zucar",incomplete_roster
+2026-04-06_c660dfc19c91_0251,2026-04-06,JUMBO,251,"matusik, reNIK, Snoob",incomplete_roster
+2026-04-06_c660dfc19c91_0267,2026-04-06,Nemesis Impact,267,"juliano, Kaoday, Monkey D Julie, ramziiN",incomplete_roster
+2026-04-06_c660dfc19c91_0269,2026-04-06,NRG,269,"br0, daps, Jeorge, Sonic, XotiC",ambiguous_core_match
+2026-04-06_c660dfc19c91_0274,2026-04-06,Peekaboo,274,"Hikomi, julih, LETi",incomplete_roster
+2026-04-06_c660dfc19c91_0278,2026-04-06,500,278,"CeRq, Rainwaker, REDSTAR, volt",incomplete_roster
+2026-04-06_c660dfc19c91_0285,2026-04-06,METANOIA,285,"coxa, GdA, palenscki, terran",incomplete_roster
+2026-04-06_c660dfc19c91_0288,2026-04-06,SPARTA,288,"Djon8, k4nfuz, Krad, Norwi, yuramyata",ambiguous_core_match
+2026-04-06_c660dfc19c91_0295,2026-04-06,AKA HERO KAJO,295,"amyb, Siljeeeh, Waldee",incomplete_roster
+2026-04-06_c660dfc19c91_0296,2026-04-06,Lotus fe,296,"cyclone, tokkis, Zazu",incomplete_roster
+2026-04-06_c660dfc19c91_0297,2026-04-06,VEXA,297,"hug1, nolkz, ryuzen",incomplete_roster
+2026-04-06_c660dfc19c91_0300,2026-04-06,Matrix,300,"EgorMercedes, frakenzor, joly, kyoto666",incomplete_roster
+2026-04-06_c660dfc19c91_0302,2026-04-06,NSN,302,"Niko, reason, z1ayr",incomplete_roster
+2026-04-06_c660dfc19c91_0306,2026-04-06,Pugdesonesto,306,"KLR, LIN, phx, Thuister, vzn",ambiguous_core_match
+2026-04-06_c660dfc19c91_0307,2026-04-06,Curralzinho,307,"akane, Cara de Banana, kati, yuu",incomplete_roster
+2026-04-06_c660dfc19c91_0308,2026-04-06,Straight2Killin,308,"BeaKie, den1ed, VulcaN",incomplete_roster
+2026-04-06_c660dfc19c91_0313,2026-04-06,BA 2,313,"Bizarre666, k6rdon, relan, tarturb0b",incomplete_roster
+2026-04-06_c660dfc19c91_0314,2026-04-06,Memeories,314,"AEROj, fatguy, Slugy, Tiski",incomplete_roster
+2026-04-06_c660dfc19c91_0316,2026-04-06,MARKandLARRY,316,"BRACE, micalis, yourwombat",incomplete_roster
+2026-04-06_c660dfc19c91_0322,2026-04-06,OverKnight,322,"4TAYLOR, AMC, Majesticzz, spamzzy",incomplete_roster
+2026-04-06_c660dfc19c91_0324,2026-04-06,NuTorious,324,"Austin, Msaia, sayN, Toasty",incomplete_roster
+2026-04-06_c660dfc19c91_0325,2026-04-06,9BOOMPRO,325,"Ax1Le, FL4MUS, shalfey, sugaR, zorte",ambiguous_core_match
+2026-04-06_c660dfc19c91_0327,2026-04-06,Akimbo,327,"Marro, N2o, obi",incomplete_roster
+2026-04-06_c660dfc19c91_0328,2026-04-06,Outfit 49,328,"LUKE4k, s3rum, sava9e",incomplete_roster
+2026-04-06_c660dfc19c91_0329,2026-04-06,Haemus,329,"dennyslaw, Duplicate, h4rn, rafftu",incomplete_roster
+2026-04-06_c660dfc19c91_0330,2026-04-06,Money Crew,330,"N2o, obi, taggy",incomplete_roster
+2026-04-06_c660dfc19c91_0331,2026-04-06,Vantage,331,"Arctic, lucas222, neo, tidy",incomplete_roster
+2026-04-06_c660dfc19c91_0332,2026-04-06,Partizan,332,"aidKiT, dan1, Kind0, VLDN",incomplete_roster
+2026-04-06_c660dfc19c91_0333,2026-04-06,The Glecs,333,"crickeyyy, hAw, hodix, jackast",incomplete_roster
+2026-04-06_c660dfc19c91_0336,2026-04-06,FRZ,336,"Jachro, Sharpie, toasty",incomplete_roster
+2026-04-06_c660dfc19c91_0337,2026-04-06,LE-LUX,337,"biebs, delkud, luffy, R3XY",incomplete_roster
+2026-04-06_c660dfc19c91_0338,2026-04-06,Unitronics,338,"ImpressioN, Kuma, w1nt3r",incomplete_roster
+2026-04-06_c660dfc19c91_0342,2026-04-06,Strael Bora,342,"5 Star, maddeN, newhope",incomplete_roster
+2026-04-06_c660dfc19c91_0343,2026-04-06,Younglings,343,"7ckingsam, arun, eLa1z, Shed0Z",incomplete_roster
+2026-04-06_c660dfc19c91_0344,2026-04-06,MUERTA,344,"f1R, ka1do, kinyx, MaLLiC",incomplete_roster
+2026-04-06_c660dfc19c91_0347,2026-04-06,Fuego,347,"ALENNNCAR, Lukita, Thuister, vzn",incomplete_roster
+2026-04-06_c660dfc19c91_0348,2026-04-06,Z7,348,"BestR1flerEu, Dobo, Gibsand, Valtr1x",incomplete_roster
+2026-04-06_c660dfc19c91_0350,2026-04-06,ReThink,350,"king, p1ke, Rack, zeak",incomplete_roster
+2026-04-06_c660dfc19c91_0351,2026-04-06,Beyond Limits,351,"Beastman, doltn, flixxy, Pr0mise",incomplete_roster
+2026-04-06_c660dfc19c91_0354,2026-04-06,EXSAD,354,"KiMBARREiROS, kWAUR, ThozoR",incomplete_roster
+2026-04-06_c660dfc19c91_0355,2026-04-06,ScarX,355,"Dant1k, Dili, mRmN, X1RON",incomplete_roster
+2026-05-04_d31f024e4e69_0042,2026-05-04,illwill,42,"7Kick, adamS, dycha, hAdji, nEMANHA",ambiguous_core_match
+2026-05-04_d31f024e4e69_0071,2026-05-04,Eternal Fire,71,"DemQQ, jottAAA, MisteM, regali, rigoN",ambiguous_core_match
+2026-05-04_d31f024e4e69_0089,2026-05-04,KOLESIE,89,"b1elany, ex1st, fr3nd, innocent, Qlocuu",ambiguous_core_match
+2026-05-04_d31f024e4e69_0097,2026-05-04,Rare Atom,97,"3gl, chengking, L1haNg, Summer, Trash",ambiguous_core_match
+2026-05-04_d31f024e4e69_0117,2026-05-04,aAa,117,"AsI0K, Saax, SLIE9000, Tarkky",incomplete_roster
+2026-05-04_d31f024e4e69_0120,2026-05-04,FengDa,120,"3gl, afufu, p5p, Trash",incomplete_roster
+2026-05-04_d31f024e4e69_0157,2026-05-04,Aether,157,"bezymecc, brett, H0NeST, s3rum, xaler",ambiguous_core_match
+2026-05-04_d31f024e4e69_0158,2026-05-04,Just Players,158,"em0k1d, rexxie, Something, spirit, sstiNiX",ambiguous_core_match
+2026-05-04_d31f024e4e69_0161,2026-05-04,Lilmix,161,"bsover, Jackinho, quix, walleN, Wonder",ambiguous_core_match
+2026-05-04_d31f024e4e69_0162,2026-05-04,Rune Eaters,162,"dako, fitch, forkyz, her1tage, mo0N",ambiguous_core_match
+2026-05-04_d31f024e4e69_0164,2026-05-04,brazylijski luz,164,"aimy, chudy, Melavi, next1me, tomiko",ambiguous_core_match
+2026-05-04_d31f024e4e69_0177,2026-05-04,BRUTE,177,"hfah, majky, mASKED, nbqq, realzen",ambiguous_core_match
+2026-05-04_d31f024e4e69_0180,2026-05-04,Fuzos,180,"Mané, rafaxF, Slaxx, Stepa",incomplete_roster
+2026-05-04_d31f024e4e69_0183,2026-05-04,FORZE Reload,183,"demente, KusMe, shady, Something, spirit",ambiguous_core_match
+2026-05-04_d31f024e4e69_0210,2026-05-04,Venom,210,"dycha, flayy, innocent, Qlocuu, Sobol",ambiguous_core_match
+2026-05-04_d31f024e4e69_0212,2026-05-04,Sashi Academy,212,"Bl4zE, Damsi, Mizi, Mol011, rosen",ambiguous_core_match
+2026-05-04_d31f024e4e69_0222,2026-05-04,Mindfreak,222,"dpr, swerzieN, Texta, tucks, zune",ambiguous_core_match
+2026-05-04_d31f024e4e69_0223,2026-05-04,VP.Prodigy,223,"AquaRS, F0R3VER, lasfas, rokilan, TriBorgg1",ambiguous_core_match
+2026-05-04_d31f024e4e69_0224,2026-05-04,Eternal Fire,224,"Calyx, EMSTAR, lugseN, rigoN, Woro2k",ambiguous_core_match
+2026-05-04_d31f024e4e69_0232,2026-05-04,Enjoy,232,"nbl, roxesz, sh1geo, zazzer",incomplete_roster
+2026-05-04_d31f024e4e69_0236,2026-05-04,Sensation,236,"ncl, Tsogoo",incomplete_roster
+2026-05-04_d31f024e4e69_0237,2026-05-04,BRUTE,237,"KAD1M, realzen, Siko, The eLiVe, w4rden",ambiguous_core_match
+2026-05-04_d31f024e4e69_0240,2026-05-04,KUUSAMO,240,"epik, Keksimage, osku, rbm",incomplete_roster
+2026-05-04_d31f024e4e69_0241,2026-05-04,FarmVille,241,"BeaKie, cJ dA K1nG, HAMBOOGA, sava9e",incomplete_roster
+2026-05-04_d31f024e4e69_0249,2026-05-04,900FPSvsECO,249,"Gabe, mds, Termina, Valter0k, Zoker",ambiguous_core_match
+2026-05-04_d31f024e4e69_0254,2026-05-04,AaB,254,"bekker, Maze, Mol011, N4XX1S, qx",ambiguous_core_match
+2026-05-04_d31f024e4e69_0255,2026-05-04,Endless Journey,255,"deb0, pavlysha666, sstiNiX, swetsi",incomplete_roster
+2026-05-04_d31f024e4e69_0257,2026-05-04,Outfit 49,257,"Gabe, Grimblee, H0NeST, mds, Valter0k",ambiguous_core_match
+2026-05-04_d31f024e4e69_0258,2026-05-04,Club 333,258,"4TAYLOR, kobruh, SecretAgent",incomplete_roster
+2026-05-04_d31f024e4e69_0259,2026-05-04,Rare Atom,259,"ChildKing, L1haNg, Marek, Summer, Tiger",ambiguous_core_match
+2026-05-04_d31f024e4e69_0262,2026-05-04,Vexar,262,"ADntZ, KarmaN, KEEMBO, obsward",incomplete_roster
+2026-05-04_d31f024e4e69_0265,2026-05-04,JUMBO,265,"matusik, reNIK, Snoob",incomplete_roster
+2026-05-04_d31f024e4e69_0272,2026-05-04,DXA,272,"c4put, Myst, Supers, Zoot",incomplete_roster
+2026-05-04_d31f024e4e69_0280,2026-05-04,illwill,280,"7Kick, fostar, hAdji, Jorko, nEMANHA",ambiguous_core_match
+2026-05-04_d31f024e4e69_0282,2026-05-04,Ding Cuts,282,"biebs, blood, delkud, maxed, Val",ambiguous_core_match
+2026-05-04_d31f024e4e69_0290,2026-05-04,bond1e,290,"MAGILA, prelideN, REL, StreakN",incomplete_roster
+2026-05-04_d31f024e4e69_0295,2026-05-04,METANOIA,295,"coxa, GdA, palenscki, terran",incomplete_roster
+2026-05-04_d31f024e4e69_0297,2026-05-04,LITE,297,"blood, ELFMELK, gump, Val, Winnieeeee",ambiguous_core_match
+2026-05-04_d31f024e4e69_0306,2026-05-04,NuTorious,306,"Austin, Msaia, sayN, Toasty",incomplete_roster
+2026-05-04_d31f024e4e69_0311,2026-05-04,MUERTA,311,"f1R, ka1do, kinyx, MaLLiC",incomplete_roster
+2026-05-04_d31f024e4e69_0313,2026-05-04,Outfit 49,313,"Andrew, brett, LUKE4k, s3rum, sava9e",ambiguous_core_match
+2026-05-04_d31f024e4e69_0318,2026-05-04,BA 2,318,"Bizarre666, k6rdon, relan, tarturb0b",incomplete_roster
+2026-05-04_d31f024e4e69_0321,2026-05-04,Memeories,321,"AEROj, fatguy, Slugy, Tiski",incomplete_roster
+2026-05-04_d31f024e4e69_0323,2026-05-04,girl kissers,323,"kevin, lunari, TeXaSs, violet",incomplete_roster
+2026-05-04_d31f024e4e69_0325,2026-05-04,ScarX,325,"Dant1k, Dili, mRmN, X1RON",incomplete_roster
+2026-05-04_d31f024e4e69_0327,2026-05-04,Lilmix,327,"b0denmaster, bsover, doobs, PlesseN, quix",ambiguous_core_match
+2026-05-04_d31f024e4e69_0330,2026-05-04,kONO,330,"birdfromsky, Burmylov, cptkurtka023, Keoz",incomplete_roster
+2026-05-04_d31f024e4e69_0333,2026-05-04,HereWeGoAgain,333,"flush, fraga, guizo, Ltm",incomplete_roster
+2026-05-04_d31f024e4e69_0335,2026-05-04,Strael Bora,335,"5 Star, maddeN, newhope",incomplete_roster
+2026-05-04_d31f024e4e69_0337,2026-05-04,The Bardolphs,337,"AJ, CoachParnell, Iceo",incomplete_roster
+2026-05-04_d31f024e4e69_0338,2026-05-04,Z7,338,"BestR1flerEu, Dobo, Gibsand, Valtr1x",incomplete_roster
+2026-05-04_d31f024e4e69_0341,2026-05-04,LAGUNA,341,"dennyslaw, Duplicate, ritchiEE",incomplete_roster
+2026-05-04_d31f024e4e69_0342,2026-05-04,Younglings,342,"7ckingsam, arun, eLa1z, Shed0Z",incomplete_roster
+2026-05-04_d31f024e4e69_0344,2026-05-04,FRZ,344,"j3nni, Jachro, Sharpie, toasty",incomplete_roster
+2026-05-04_d31f024e4e69_0345,2026-05-04,Beyond Limits,345,"Beastman, doltn, flixxy, Pr0mise",incomplete_roster
+2026-05-04_d31f024e4e69_0350,2026-05-04,Nigel Mirage,350,"jeyN, moz, swaggy, wfn",incomplete_roster
+2026-05-04_d31f024e4e69_0351,2026-05-04,EXSAD,351,"KiMBARREiROS, kWAUR, ThozoR",incomplete_roster
+2026-05-04_d31f024e4e69_0352,2026-05-04,Haemus,352,"dennyslaw, Duplicate, h4rn, rafftu",incomplete_roster
+2026-05-04_d31f024e4e69_0356,2026-05-04,Partizan,356,"aidKiT, dan1, Kind0, VLDN",incomplete_roster
+2026-06-01_787abdff8bf1_0031,2026-06-01,HOTU,31,"dwushka, frontales, kade0, mizu, n0rb3r7",ambiguous_core_match
+2026-06-01_787abdff8bf1_0086,2026-06-01,ex-RUBY,86,"H4SAN4TOR, relaxxie, robo, sh1nejezzz, YumsaN",ambiguous_core_match
+2026-06-01_787abdff8bf1_0118,2026-06-01,9INE,118,"bnox, cej0t, kraghen, raalz, shield",ambiguous_core_match
+2026-06-01_787abdff8bf1_0135,2026-06-01,UNO MILLE,135,"ALLE, cLd, drg, Ltz, remix",ambiguous_core_match
+2026-06-01_787abdff8bf1_0147,2026-06-01,FengDa,147,"3gl, afufu, p5p, Trash",incomplete_roster
+2026-06-01_787abdff8bf1_0148,2026-06-01,UNO MILLE,148,"brokeN, cLd, clon7, Ltz, remix",ambiguous_core_match
+2026-06-01_787abdff8bf1_0149,2026-06-01,ALGO,149,"adeX, aNdu, Bambosh, nukkye, szejn",ambiguous_core_match
+2026-06-01_787abdff8bf1_0168,2026-06-01,megoshort,168,"mogv, robiin, Twinkey, virree, zen",ambiguous_core_match
+2026-06-01_787abdff8bf1_0172,2026-06-01,TNC,172,"maaryy, Markoś, Nami, yvro",incomplete_roster
+2026-06-01_787abdff8bf1_0181,2026-06-01,Sashi Academy,181,"Bl4zE, Damsi, Mizi, Mol011",incomplete_roster
+2026-06-01_787abdff8bf1_0187,2026-06-01,Aether,187,"Andrew, brett, H0NeST, Seb, xaler",ambiguous_core_match
+2026-06-01_787abdff8bf1_0192,2026-06-01,GameHunters,192,"abr, bnc, bsd, f4stzin, nyezin",ambiguous_core_match
+2026-06-01_787abdff8bf1_0203,2026-06-01,ALGO,203,"anber, myltsi, nukkye, Scr0b, szejn",ambiguous_core_match
+2026-06-01_787abdff8bf1_0210,2026-06-01,Fuzos,210,"Mané, rafaxF, Slaxx, Stepa",incomplete_roster
+2026-06-01_787abdff8bf1_0217,2026-06-01,Lilmix,217,"bsover, doobs, quix, walleN, zen",ambiguous_core_match
+2026-06-01_787abdff8bf1_0226,2026-06-01,AM,226,"Altekz, delle, k1to, kyuubii, pxsl",ambiguous_core_match
+2026-06-01_787abdff8bf1_0231,2026-06-01,WROTBERRY,231,"fl1peR, lyoli, svemyy, tired73",incomplete_roster
+2026-06-01_787abdff8bf1_0244,2026-06-01,EC BANGA,244,"blazekiNho, keni, Labreenc, makaroff",incomplete_roster
+2026-06-01_787abdff8bf1_0245,2026-06-01,Sensation,245,"ncl, Tsogoo",incomplete_roster
+2026-06-01_787abdff8bf1_0246,2026-06-01,Strael Bora,246,"5 Star, maddeN, newhope",incomplete_roster
+2026-06-01_787abdff8bf1_0250,2026-06-01,SAW,250,"Ag1l, aragornN, krazy, MUTiRiS, story",ambiguous_core_match
+2026-06-01_787abdff8bf1_0253,2026-06-01,Dark Moon,253,"d3j4vy, keiyon, ri0dayungog",incomplete_roster
+2026-06-01_787abdff8bf1_0255,2026-06-01,Bebop,255,"dwushka, faydett, h1kaN, iDISBALANCE",incomplete_roster
+2026-06-01_787abdff8bf1_0260,2026-06-01,FarmVille,260,"BeaKie, cJ dA K1nG, HAMBOOGA, sava9e",incomplete_roster
+2026-06-01_787abdff8bf1_0269,2026-06-01,Mindfreak,269,"swerzieN, Texta, tucks, zune",incomplete_roster
+2026-06-01_787abdff8bf1_0272,2026-06-01,ZOTIX,272,"byr9, EsD, kalyambys, xeNji",incomplete_roster
+2026-06-01_787abdff8bf1_0273,2026-06-01,GameHunters,273,"abr, bnc, nyezin, prt, RCF",ambiguous_core_match
+2026-06-01_787abdff8bf1_0276,2026-06-01,Club 333,276,"4TAYLOR, kobruh, SecretAgent",incomplete_roster
+2026-06-01_787abdff8bf1_0278,2026-06-01,DXA,278,"c4put, Myst, Supers, Zoot",incomplete_roster
+2026-06-01_787abdff8bf1_0280,2026-06-01,JUMBO,280,"matusik, reNIK, Snoob",incomplete_roster
+2026-06-01_787abdff8bf1_0292,2026-06-01,bond1e,292,"MAGILA, prelideN, REL, StreakN",incomplete_roster
+2026-06-01_787abdff8bf1_0293,2026-06-01,Phantom Academy,293,"Ader, Ayteel, parad17se",incomplete_roster
+2026-06-01_787abdff8bf1_0308,2026-06-01,home,308,"BehinDx, sacred, stesso, Viggo, wasian",ambiguous_core_match
+2026-06-01_787abdff8bf1_0311,2026-06-01,NuTorious,311,"Austin, Msaia, sayN, Toasty",incomplete_roster
+2026-06-01_787abdff8bf1_0316,2026-06-01,BA 2,316,"Bizarre666, k6rdon, relan, tarturb0b",incomplete_roster
+2026-06-01_787abdff8bf1_0318,2026-06-01,BRUTE,318,"hfah, KAD1M, realzen, w4rden",incomplete_roster
+2026-06-01_787abdff8bf1_0320,2026-06-01,Players,320,"Lich, MITHPUTTINI, prisma, rainny, souz4h",ambiguous_core_match
+2026-06-01_787abdff8bf1_0321,2026-06-01,MUERTA,321,"f1R, ka1do, kinyx, MaLLiC",incomplete_roster
+2026-06-01_787abdff8bf1_0324,2026-06-01,Atrix,324,"Eleven, LyttleZ, REGIANE, segalla",incomplete_roster
+2026-06-01_787abdff8bf1_0330,2026-06-01,girl kissers,330,"kevin, lunari, TeXaSs, violet",incomplete_roster
+2026-06-01_787abdff8bf1_0331,2026-06-01,Reign Above,331,"cobalt, colin, SeRCEra, swayu",incomplete_roster
+2026-06-01_787abdff8bf1_0334,2026-06-01,Memeories,334,"AEROj, fatguy, Slugy",incomplete_roster
+2026-06-01_787abdff8bf1_0337,2026-06-01,MAGICOS,337,"ghosT1, Lcs, Rkzinho, rx, snow",ambiguous_core_match
+2026-06-01_787abdff8bf1_0339,2026-06-01,RUBY,339,"fozil, H4SAN4TOR, Kaide, maQuein, sh1nejezzz",ambiguous_core_match
+2026-06-01_787abdff8bf1_0345,2026-06-01,HereWeGoAgain,345,"fraga, guizo, shrr, trindade",incomplete_roster
+2026-06-01_787abdff8bf1_0346,2026-06-01,HereWeGoAgain,346,"flush, fraga, guizo, Ltm",incomplete_roster
+2026-06-01_787abdff8bf1_0351,2026-06-01,Z7,351,"BestR1flerEu, Dobo, Gibsand, Valtr1x",incomplete_roster
+2026-06-01_787abdff8bf1_0352,2026-06-01,LAGUNA,352,"dennyslaw, Duplicate, ritchiEE",incomplete_roster
+2026-06-01_787abdff8bf1_0353,2026-06-01,Younglings,353,"7ckingsam, arun, eLa1z, Shed0Z",incomplete_roster
+2026-06-01_787abdff8bf1_0355,2026-06-01,Beyond Limits,355,"Beastman, doltn, flixxy, Pr0mise",incomplete_roster
+2026-06-01_787abdff8bf1_0356,2026-06-01,low cortisol,356,"kairo, phoebe, void",incomplete_roster
+2026-06-01_787abdff8bf1_0358,2026-06-01,OKSUCC,358,"jeyN, moz, swaggy, wfn",incomplete_roster
+2026-06-01_787abdff8bf1_0363,2026-06-01,EXSAD,363,"KiMBARREiROS, kWAUR, ThozoR",incomplete_roster
+2026-07-06_b938ccb3539f_0104,2026-07-06,Leo,104,"aimy, amster, kL1o, leen, next1me",ambiguous_core_match
+2026-07-06_b938ccb3539f_0121,2026-07-06,Keyd Stars,121,"lash, matios, xureba, zede",incomplete_roster
+2026-07-06_b938ccb3539f_0139,2026-07-06,WW,139,"ct0m, d1Ledez, deko, kelieN, StRoGo",ambiguous_core_match
+2026-07-06_b938ccb3539f_0155,2026-07-06,KOLESIE,155,"b1elany, innocent, Markoś, Qlocuu, Sobol",ambiguous_core_match
+2026-07-06_b938ccb3539f_0161,2026-07-06,Ground Zero,161,"apocdud, hazr, Omichella, sliimey, tucks",ambiguous_core_match
+2026-07-06_b938ccb3539f_0162,2026-07-06,roamsfiest,162,"Realyummy, Sn0w, TiiREX",incomplete_roster
+2026-07-06_b938ccb3539f_0164,2026-07-06,Leo,164,"amster, leri511, Malkiss, marat2k, OneUn1que",ambiguous_core_match
+2026-07-06_b938ccb3539f_0166,2026-07-06,Mai Tai,166,"aimy, chudy, Melavi, next1me, tomiko",ambiguous_core_match
+2026-07-06_b938ccb3539f_0174,2026-07-06,FengDa,174,"3gl, afufu, p5p, Trash",incomplete_roster
+2026-07-06_b938ccb3539f_0188,2026-07-06,Entropy,188,"dottie, flaw, GeGo, tevsii",incomplete_roster
+2026-07-06_b938ccb3539f_0207,2026-07-06,struggletony,207,"birdfromsky, Q-Q, Queenix",incomplete_roster
+2026-07-06_b938ccb3539f_0212,2026-07-06,Strael Bora,212,"5 Star, maddeN, newhope",incomplete_roster
+2026-07-06_b938ccb3539f_0235,2026-07-06,Just Players,235,"rexxie, shady, Something, spirit, sstiNiX",ambiguous_core_match
+2026-07-06_b938ccb3539f_0243,2026-07-06,Fuzos,243,"Mané, rafaxF, Slaxx, Stepa",incomplete_roster
+2026-07-06_b938ccb3539f_0255,2026-07-06,Phantom,255,"DGL, KEi, Kunai, Kylar, mynio",ambiguous_core_match
+2026-07-06_b938ccb3539f_0261,2026-07-06,Invicta,261,"artie, Griller, SinK",incomplete_roster
+2026-07-06_b938ccb3539f_0265,2026-07-06,Dark Moon,265,"d3j4vy, keiyon, Maison, ri0dayungog",incomplete_roster
+2026-07-06_b938ccb3539f_0268,2026-07-06,Sensation,268,"ncl, Tsogoo",incomplete_roster
+2026-07-06_b938ccb3539f_0276,2026-07-06,FarmVille,276,"BeaKie, cJ dA K1nG, HAMBOOGA, sava9e",incomplete_roster
+2026-07-06_b938ccb3539f_0278,2026-07-06,Coalesce,278,"D1ntrIXxX, onder, sen1ar",incomplete_roster
+2026-07-06_b938ccb3539f_0279,2026-07-06,EC BANGA,279,"blazekiNho, keni, Labreenc, makaroff",incomplete_roster
+2026-07-06_b938ccb3539f_0289,2026-07-06,ZOTIX,289,"byr9, EsD, kalyambys, xeNji",incomplete_roster
+2026-07-06_b938ccb3539f_0305,2026-07-06,Bebop,305,"dwushka, faydett, h1kaN, iDISBALANCE",incomplete_roster
+2026-07-06_b938ccb3539f_0307,2026-07-06,Olympus,307,"Bizarre666, k6rdon, relan, tarturb0b",incomplete_roster
+2026-07-06_b938ccb3539f_0309,2026-07-06,FORZE Reload,309,"aloneintokyo, KusMe, Something",incomplete_roster
+2026-07-06_b938ccb3539f_0317,2026-07-06,bond1e,317,"MAGILA, prelideN, REL, StreakN",incomplete_roster
+2026-07-06_b938ccb3539f_0318,2026-07-06,JUMBO,318,"matusik, reNIK, Snoob",incomplete_roster
+2026-07-06_b938ccb3539f_0330,2026-07-06,Surge,330,"Electrician, frog, Molly, TheJelly",incomplete_roster
+2026-07-06_b938ccb3539f_0340,2026-07-06,Grindas,340,"BaGyZ, fello, Sidivo",incomplete_roster
+2026-07-06_b938ccb3539f_0345,2026-07-06,girl kissers,345,"kevin, lunari, TeXaSs, violet",incomplete_roster
+2026-07-06_b938ccb3539f_0347,2026-07-06,NuTorious,347,"Austin, Msaia, sayN, Toasty",incomplete_roster
+2026-07-06_b938ccb3539f_0358,2026-07-06,BRUTE,358,"hfah, KAD1M, realzen",incomplete_roster
+2026-07-06_b938ccb3539f_0361,2026-07-06,HereWeGoAgain,361,"fraga, guizo, shrr, trindade",incomplete_roster
+2026-07-06_b938ccb3539f_0362,2026-07-06,HereWeGoAgain,362,"flush, fraga, guizo, Ltm",incomplete_roster
+2026-07-06_b938ccb3539f_0367,2026-07-06,6666,367,"auth0ri, m4d4ra, rickangel, skcH",incomplete_roster
+2026-07-06_b938ccb3539f_0369,2026-07-06,LAGUNA,369,"dennyslaw, Duplicate, ritchiEE",incomplete_roster
+2026-07-06_b938ccb3539f_0370,2026-07-06,Z7,370,"BestR1flerEu, Dobo, Gibsand, Valtr1x",incomplete_roster
+2026-07-06_b938ccb3539f_0371,2026-07-06,LPH,371,"d0mZ1k, Fajr, lojzo, N1KOLAJ",incomplete_roster
+2026-07-06_b938ccb3539f_0372,2026-07-06,Younglings,372,"7ckingsam, arun, eLa1z, Shed0Z",incomplete_roster
+2026-07-06_b938ccb3539f_0374,2026-07-06,OKSUCC,374,"jeyN, moz, swaggy, wfn",incomplete_roster
+2026-07-06_b938ccb3539f_0377,2026-07-06,SIXSEVEN,377,"CeRq, CYPHER, volt",incomplete_roster
+2026-08-03_617001288100_0048,2026-08-03,TDK,48,"ArtFr0st, Ax1Le, BELCHONOKK, fame, nafany",ambiguous_core_match
+2026-08-03_617001288100_0066,2026-08-03,NOVAQ,66,"AdreN, neaLaN, Pump, tasman",incomplete_roster
+2026-08-03_617001288100_0074,2026-08-03,Voca,74,"junior, MarKE, nosraC, snav",incomplete_roster
+2026-08-03_617001288100_0077,2026-08-03,BRUTE,77,"aidKiT, hfah, majky, nbqq, ZEDKO",ambiguous_core_match
+2026-08-03_617001288100_0098,2026-08-03,AM,98,"Altekz, k1to, kyuubii, L00m1, myltsi",ambiguous_core_match
+2026-08-03_617001288100_0117,2026-08-03,Lavked,117,"1NVISIBLEE, KENSI, sol, xm1nd",incomplete_roster
+2026-08-03_617001288100_0130,2026-08-03,Eternal Fire,130,"DemQQ, EMSTAR, jottAAA, rigoN, Woro2k",ambiguous_core_match
+2026-08-03_617001288100_0145,2026-08-03,Bebop,145,"faydett, iDISBALANCE, lov1kus, redzed",incomplete_roster
+2026-08-03_617001288100_0150,2026-08-03,Poland,150,"Demho, Prism, Qlocuu",incomplete_roster
+2026-08-03_617001288100_0151,2026-08-03,Chinggis Warriors,151,"cool4st, Efire, Redka, ROUX, tikuak",ambiguous_core_match
+2026-08-03_617001288100_0152,2026-08-03,ex-RUBY,152,"danistzz, H4SAN4TOR, Kaide, sh1nejezzz, YumsaN",ambiguous_core_match
+2026-08-03_617001288100_0157,2026-08-03,LAG,157,"Bwills, Cryptic, djay, Sandman, SLIGHT",ambiguous_core_match
+2026-08-03_617001288100_0163,2026-08-03,roamsfiest,163,"Realyummy, Sn0w, TiiREX",incomplete_roster
+2026-08-03_617001288100_0183,2026-08-03,Liquid,183,"EliGE, jL, NAF, siuhy, ultimate",ambiguous_core_match
+2026-08-03_617001288100_0185,2026-08-03,los kogutos,185,"AdrieN, hotd0g, maaryy, Markoś, tomiko",ambiguous_core_match
+2026-08-03_617001288100_0194,2026-08-03,aimclub,194,"ERSIN, waZz, zewts",incomplete_roster
+2026-08-03_617001288100_0209,2026-08-03,TNC,209,"AdrieN, maaryy, Nami, yvro",incomplete_roster
+2026-08-03_617001288100_0214,2026-08-03,THE UNIT,214,"ad0rfin, kyrosawa, nesh",incomplete_roster
+2026-08-03_617001288100_0216,2026-08-03,FengDa,216,"3gl, afufu, p5p, Trash",incomplete_roster
+2026-08-03_617001288100_0217,2026-08-03,megoshort,217,"jayzaR, qvick, robiin, Twinkey, zen",ambiguous_core_match
+2026-08-03_617001288100_0225,2026-08-03,UNiTY,225,"K1-FiDa, M1key, MoriiSko, NEOFRAG, woozzzi",ambiguous_core_match
+2026-08-03_617001288100_0232,2026-08-03,struggletony,232,"birdfromsky, Q-Q, Queenix",incomplete_roster
+2026-08-03_617001288100_0236,2026-08-03,Lilmix,236,"b0denmaster, Jackinho, quix, Wonder",incomplete_roster
+2026-08-03_617001288100_0245,2026-08-03,los kogutos,245,"AdrieN, maaryy, POLO, Showk, yvro",ambiguous_core_match
+2026-08-03_617001288100_0253,2026-08-03,mellren,253,"Maksilvl, mdl, menddel, shootic",incomplete_roster
+2026-08-03_617001288100_0263,2026-08-03,ALTAY,263,"ARSPOWER, Blackout, kiytsu, Plain7",incomplete_roster
+2026-08-03_617001288100_0269,2026-08-03,Invicta,269,"artie, Griller, SinK",incomplete_roster
+2026-08-03_617001288100_0276,2026-08-03,Dark Moon,276,"d3j4vy, keiyon, Maison, ri0dayungog",incomplete_roster
+2026-08-03_617001288100_0280,2026-08-03,METANOIA Wolves,280,"Lcs, sakamoto, spinnie, Thuister, vzn",ambiguous_core_match
+2026-08-03_617001288100_0284,2026-08-03,Fuzos,284,"Mané, rafaxF, Slaxx, Stepa",incomplete_roster
+2026-08-03_617001288100_0288,2026-08-03,Coalesce,288,"D1ntrIXxX, onder, sen1ar",incomplete_roster
+2026-08-03_617001288100_0291,2026-08-03,Tricksters,291,"Halfjix, iRV1NG",incomplete_roster
+2026-08-03_617001288100_0296,2026-08-03,paiN Academy,296,"akasay, Markz, Tatu, tsug, vtnn",ambiguous_core_match
+2026-08-03_617001288100_0298,2026-08-03,Sensation,298,"ncl, Tsogoo",incomplete_roster
+2026-08-03_617001288100_0301,2026-08-03,Endless Journey,301,"deb0, pavlysha666, sstiNiX, swetsi",incomplete_roster
+2026-08-03_617001288100_0304,2026-08-03,Jumprava,304,"cgk, ChipaaN, whitezins",incomplete_roster
+2026-08-03_617001288100_0310,2026-08-03,ZOTIX,310,"byr9, EsD, kalyambys, xeNji",incomplete_roster
+2026-08-03_617001288100_0312,2026-08-03,Festina Lente,312,"FRIZZY, Fruitcupx, gamble, Maxuel",incomplete_roster
+2026-08-03_617001288100_0313,2026-08-03,EC BANGA,313,"blazekiNho, keni, Labreenc, makaroff",incomplete_roster
+2026-08-03_617001288100_0315,2026-08-03,FarmVille,315,"BeaKie, cJ dA K1nG, HAMBOOGA, sava9e",incomplete_roster
+2026-08-03_617001288100_0316,2026-08-03,MAGICOS,316,"Cr1a, Lcs, rx, snow, zuzu",ambiguous_core_match
+2026-08-03_617001288100_0321,2026-08-03,CTRL,321,"AliBond, godkU, Rhyza",incomplete_roster
+2026-08-03_617001288100_0331,2026-08-03,atputies,331,"Brens, m1kketye, Pleb0rs, whitezins",incomplete_roster
+2026-08-03_617001288100_0334,2026-08-03,Grêmio,334,"balencyy, MITHPUTTINI, s1lent, souz4h, yeda",ambiguous_core_match
+2026-08-03_617001288100_0336,2026-08-03,Trainwrecks,336,"AhMa, Hattivatti, LapaSSS, melty",incomplete_roster
+2026-08-03_617001288100_0338,2026-08-03,NuTorious,338,"Austin, Msaia, sayN, Toasty",incomplete_roster
+2026-08-03_617001288100_0339,2026-08-03,Olympus,339,"Bizarre666, k6rdon, relan, tarturb0b",incomplete_roster
+2026-08-03_617001288100_0345,2026-08-03,bond1e,345,"MAGILA, prelideN, REL, StreakN",incomplete_roster
+2026-08-03_617001288100_0353,2026-08-03,Young TigeRES,353,"Gashhhi4, tronic, z3ndy",incomplete_roster
+2026-08-03_617001288100_0354,2026-08-03,FORZE Reload,354,"aloneintokyo, KusMe, Something, spirit",incomplete_roster
+2026-08-03_617001288100_0357,2026-08-03,Surge,357,"Electrician, frog, Molly, TheJelly",incomplete_roster
+2026-08-03_617001288100_0363,2026-08-03,girl kissers,363,"kevin, lunari, TeXaSs, violet",incomplete_roster
+2026-08-03_617001288100_0366,2026-08-03,Grindas,366,"BaGyZ, fello, Sidivo",incomplete_roster
+2026-08-03_617001288100_0368,2026-08-03,ex-Fingers Crossed,368,"kreaz, MAGILA, spardaus",incomplete_roster
+2026-08-03_617001288100_0369,2026-08-03,BRUTE,369,"hfah, KAD1M, mASKED, realzen, Siko",ambiguous_core_match
+2026-08-03_617001288100_0370,2026-08-03,Arise,370,"Anasasis, Bhavi, borosto, Ph1NNN",incomplete_roster
+2026-08-03_617001288100_0376,2026-08-03,raisedbypixels,376,"1luke, atyla, bright, flacko",incomplete_roster
+2026-08-03_617001288100_0377,2026-08-03,HereWeGoAgain,377,"fraga, guizo, shrr",incomplete_roster
+2026-08-03_617001288100_0381,2026-08-03,HereWeGoAgain,381,"flush, fraga, guizo, Ltm",incomplete_roster
+2026-08-03_617001288100_0385,2026-08-03,6666,385,"auth0ri, m4d4ra, rickangel, skcH",incomplete_roster
+2026-08-03_617001288100_0388,2026-08-03,LAGUNA,388,"dennyslaw, Duplicate, ritchiEE",incomplete_roster
+2026-08-03_617001288100_0390,2026-08-03,Z7,390,"BestR1flerEu, Dobo, Gibsand, Valtr1x",incomplete_roster
+2026-08-03_617001288100_0391,2026-08-03,Younglings,391,"7ckingsam, arun, eLa1z, Shed0Z",incomplete_roster
+2026-09-07_48b50d6d4f00_0017,2026-09-07,Liquid,17,"EliGE, Jorko, JT, malbsMd, NAF",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0030,2026-09-07,Betclic,30,"Demho, ex1st, fr3nd, Prism, Qlocuu",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0066,2026-09-07,ex-RUBY,66,"1eeR, H4SAN4TOR, relaxxie, sh1nejezzz, sowalio",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0067,2026-09-07,Eternal Fire,67,"jottAAA, Kvem, MisteM, regali, soulfly",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0093,2026-09-07,UNiTY,93,"2high, fnl, KWERTZZ, M1key, Sn0w",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0110,2026-09-07,Just Players,110,"h1te, sm3t, Something, sstiNiX",incomplete_roster
+2026-09-07_48b50d6d4f00_0112,2026-09-07,Leo,112,"aimy, drac, leen, next1me, Tarkky",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0113,2026-09-07,CYBERSHOKE,113,"alpha, bl1x1, fluffy, glowiing, Mokuj1n",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0120,2026-09-07,Entropy,120,"dottie, flaw, L00m1, Sapec, Toshas",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0124,2026-09-07,Nordic Partners,124,"k1to, Marix, Maze, Muciek, myltsi",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0132,2026-09-07,Phantom,132,"KEi, Kunai, Kylar, mwlky",incomplete_roster
+2026-09-07_48b50d6d4f00_0155,2026-09-07,Drip Too Hard,155,"aNdu, mASKED, rud, Sapec, tein",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0168,2026-09-07,roamsfiest,168,"Realyummy, Sn0w, TiiREX",incomplete_roster
+2026-09-07_48b50d6d4f00_0171,2026-09-07,ex-MIBR Academy,171,"fokiu, lkz, pesadelo, revoltz, stormzyn",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0176,2026-09-07,BRUTE,176,"hfah, KAD1M, majky, nbqq, realzen",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0177,2026-09-07,THE UNIT,177,"ad0rfin, kyrosawa, nesh",incomplete_roster
+2026-09-07_48b50d6d4f00_0182,2026-09-07,aimclub,182,"ERSIN, waZz, zewts",incomplete_roster
+2026-09-07_48b50d6d4f00_0201,2026-09-07,Entropy,201,"dottie, flaw, GeGo, rafftu, tevsii",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0207,2026-09-07,Iowa Stormboar,207,"aelor, false, Scorchyy, TyRa",incomplete_roster
+2026-09-07_48b50d6d4f00_0212,2026-09-07,ex-Sashi Academy,212,"Lethj, Mizi, Mol011, Thom",incomplete_roster
+2026-09-07_48b50d6d4f00_0213,2026-09-07,Ninjas in Pyjamas,213,"cairne, r1nkle, sjuush, Snappi, xKacpersky",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0214,2026-09-07,MAYBE,214,"Awi4, shallthing, thirtythird, zogeN",incomplete_roster
+2026-09-07_48b50d6d4f00_0223,2026-09-07,TNC,223,"maaryy, Nami, yvro",incomplete_roster
+2026-09-07_48b50d6d4f00_0226,2026-09-07,MOUZ NXT,226,"AiyvaN, ay0k, Flierax, Nikodeon, opdust",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0227,2026-09-07,Rare Atom,227,"chengking, L1haNg, Summer, Tiger, x9",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0229,2026-09-07,Phantom Academy,229,"Ayteel, Brain47, kalyambys, Kunai",incomplete_roster
+2026-09-07_48b50d6d4f00_0230,2026-09-07,Entropy,230,"dottie, flaw, GeGo, Mikanix, tevsii",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0234,2026-09-07,EMPIRE,234,"ayaneuu, BAGEL, C0C0, twigs, Walco",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0245,2026-09-07,FengDa,245,"3gl, afufu, p5p, Trash",incomplete_roster
+2026-09-07_48b50d6d4f00_0249,2026-09-07,ALTAY,249,"ARSPOWER, Blackout, kiytsu, Plain7",incomplete_roster
+2026-09-07_48b50d6d4f00_0250,2026-09-07,Turma do Pagode,250,"ksloks, Lucaozy, naitte, Tuurtle, WOOD7",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0255,2026-09-07,struggletony,255,"birdfromsky, Q-Q, Queenix",incomplete_roster
+2026-09-07_48b50d6d4f00_0258,2026-09-07,Leo,258,"amster, kL1o, leen, Malkiss, OneUn1que",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0269,2026-09-07,FarmVille,269,"adam, BeaKie, sleepz0rk",incomplete_roster
+2026-09-07_48b50d6d4f00_0273,2026-09-07,Mai Tai,273,"chudy, elem, Enzo, Nami, yvro",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0276,2026-09-07,Invicta,276,"artie, Griller, SinK",incomplete_roster
+2026-09-07_48b50d6d4f00_0280,2026-09-07,Dark Moon,280,"d3j4vy, keiyon, Maison, ri0dayungog",incomplete_roster
+2026-09-07_48b50d6d4f00_0282,2026-09-07,Subtop De France,282,"AZIDOT, Gauthierlelelele, Revol, Supr3me, XiMaa",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0290,2026-09-07,ZOTIX,290,"byr9, EsD, kalyambys, xeNji",incomplete_roster
+2026-09-07_48b50d6d4f00_0292,2026-09-07,BMZ,292,"fury5k, MagnumZ, me1o, rhittacrit, Wonderzce",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0297,2026-09-07,Festina Lente,297,"FRIZZY, Fruitcupx, gamble, Maxuel",incomplete_roster
+2026-09-07_48b50d6d4f00_0299,2026-09-07,Jumprava,299,"cgk, ChipaaN, whitezins",incomplete_roster
+2026-09-07_48b50d6d4f00_0300,2026-09-07,Drama,300,"andr1x, Chill, choiv7, DEPRESHN, Goody",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0301,2026-09-07,paiN Academy,301,"Bruninho, k9izer, Markz, Tatu, tsug",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0313,2026-09-07,MASONIC,313,"Avou, Botman, Bukhavez, kralle, Noruyp",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0315,2026-09-07,Sensation,315,"ncl, Tsogoo",incomplete_roster
+2026-09-07_48b50d6d4f00_0321,2026-09-07,Elusive,321,"Austin, Msaia, sayN, Toasty",incomplete_roster
+2026-09-07_48b50d6d4f00_0323,2026-09-07,Trainwrecks,323,"AhMa, Hattivatti, LapaSSS, melty",incomplete_roster
+2026-09-07_48b50d6d4f00_0325,2026-09-07,Phantom Academy,325,"Ader, Ayteel, parad17se",incomplete_roster
+2026-09-07_48b50d6d4f00_0331,2026-09-07,Younglings,331,"arun, eLa1z, Shed0Z",incomplete_roster
+2026-09-07_48b50d6d4f00_0333,2026-09-07,Olympus,333,"Bizarre666, k6rdon, relan, tarturb0b",incomplete_roster
+2026-09-07_48b50d6d4f00_0337,2026-09-07,New Legends,337,"Electrician, frog, Molly, TheJelly",incomplete_roster
+2026-09-07_48b50d6d4f00_0338,2026-09-07,Tricksters,338,"halfjix, iRV1NG, Rodos1k",incomplete_roster
+2026-09-07_48b50d6d4f00_0344,2026-09-07,Young TigeRES,344,"Gashhhi4, tronic, z3ndy",incomplete_roster
+2026-09-07_48b50d6d4f00_0346,2026-09-07,Incognito,346,"Axed, micro, Tender, viz",incomplete_roster
+2026-09-07_48b50d6d4f00_0360,2026-09-07,girl kissers,360,"kevin, lunari, TeXaSs, violet",incomplete_roster
+2026-09-07_48b50d6d4f00_0362,2026-09-07,METANOIA Wolves,362,"ALENNNCAR, khowy, spinnie, Tineu, vzn",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0363,2026-09-07,MAGICOS,363,"Cr1a, extazzy, kai, rx, snow",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0364,2026-09-07,EC BANGA,364,"blazekiNho, keni, Labreenc, makaroff",incomplete_roster
+2026-09-07_48b50d6d4f00_0366,2026-09-07,Coalesce,366,"Flicky, onder, sen1ar",incomplete_roster
+2026-09-07_48b50d6d4f00_0373,2026-09-07,raisedbypixels,373,"1luke, atyla, bright, flacko",incomplete_roster
+2026-09-07_48b50d6d4f00_0381,2026-09-07,6666,381,"auth0ri, m4d4ra, rickangel, skcH",incomplete_roster
+2026-09-07_48b50d6d4f00_0383,2026-09-07,PURE,383,"emzijs, maty, OXFROG, Sh1karee, yakuza",ambiguous_core_match
+2026-09-07_48b50d6d4f00_0386,2026-09-07,wachoskys,386,"Kiritox, leo, maik, R4N",incomplete_roster
+2026-09-07_48b50d6d4f00_0388,2026-09-07,Z7,388,"BestR1flerEu, Dobo, Gibsand, Valtr1x",incomplete_roster
+2026-09-07_48b50d6d4f00_0389,2026-09-07,Grindas,389,"BaGyZ, fello, Sidivo",incomplete_roster
+2026-09-07_48b50d6d4f00_0390,2026-09-07,brazylijski luz,390,"aimy, Brain47, next1me",incomplete_roster
+2026-09-07_48b50d6d4f00_0392,2026-09-07,Fuzos,392,"Mané, rafaxF, Slaxx, Stepa",incomplete_roster
+2026-09-07_48b50d6d4f00_0394,2026-09-07,Arise,394,"Anasasis, Bhavi, borosto, Ph1NNN",incomplete_roster
+2026-09-07_48b50d6d4f00_0395,2026-09-07,BIG EQUIPA,395,"aiM, ASTRA, Emmsan, sosya",incomplete_roster
+2026-09-07_48b50d6d4f00_0397,2026-09-07,Skele,397,"Arctic, lucas222, neo, tidy",incomplete_roster
+2026-09-07_48b50d6d4f00_0398,2026-09-07,OverKnight,398,"4TAYLOR, AMC, cruzN, Majesticzz",incomplete_roster
+2026-09-07_48b50d6d4f00_0399,2026-09-07,HereWeGoAgain,399,"flush, fraga, guizo, Ltm",incomplete_roster
+2026-09-07_48b50d6d4f00_0401,2026-09-07,GAMEHARMONY,401,"Natre, P4nc4ke, uCr0",incomplete_roster
+2026-10-05_374e78856a60_0061,2026-10-05,CYBERSHOKE,61,"Alkaren, alpha, Mokuj1n, nota, yiksrezo",ambiguous_core_match
+2026-10-05_374e78856a60_0121,2026-10-05,ex-RUBY,121,"H4SAN4TOR, relaxxie, robo, sh1nejezzz, YumsaN",ambiguous_core_match
+2026-10-05_374e78856a60_0142,2026-10-05,PAQT,142,"raiNyyy, stratefly, TIKI1769, wEAVER",incomplete_roster
+2026-10-05_374e78856a60_0152,2026-10-05,ex-RUSTEC,152,"Brilliance, jakekeS, Patsi, youka",incomplete_roster
+2026-10-05_374e78856a60_0158,2026-10-05,Saint Sinners,158,"Caleyy, deb0, iRV1NG, pavlysha666, ves111",ambiguous_core_match
+2026-10-05_374e78856a60_0166,2026-10-05,ARCRED,166,"DSSj, Get_Jeka, Raijin, Ryujin, synyx",ambiguous_core_match
+2026-10-05_374e78856a60_0191,2026-10-05,FarmVille,191,"BeaKie, calamity, Signal",incomplete_roster
+2026-10-05_374e78856a60_0199,2026-10-05,Young TigeRES,199,"Gashhhi4, motya, tronic, z3ndy",incomplete_roster
+2026-10-05_374e78856a60_0202,2026-10-05,roamsfiest,202,"Realyummy, Sn0w, TiiREX",incomplete_roster
+2026-10-05_374e78856a60_0212,2026-10-05,Bebop,212,"faydett, iDISBALANCE, KENSI, Pipw, redzed",ambiguous_core_match
+2026-10-05_374e78856a60_0213,2026-10-05,The Huns,213,"Bart4k, controlez, nin9, sk0R, xerolte",ambiguous_core_match
+2026-10-05_374e78856a60_0219,2026-10-05,Endless Journey,219,"Aliot, deb0, pavlysha666, swetsi, Temny Prince",ambiguous_core_match
+2026-10-05_374e78856a60_0220,2026-10-05,Chinggis Warriors,220,"Aceari, hasteka, ROUX, sk0R, yAmi",ambiguous_core_match
+2026-10-05_374e78856a60_0225,2026-10-05,THE UNIT,225,"ad0rfin, kyrosawa, nesh",incomplete_roster
+2026-10-05_374e78856a60_0233,2026-10-05,TNC,233,"maaryy, Markoś, Nami, yvro",incomplete_roster
+2026-10-05_374e78856a60_0236,2026-10-05,Revenge,236,"aRon, imyGDx, Northwest, nursSSS",incomplete_roster
+2026-10-05_374e78856a60_0237,2026-10-05,Club 333,237,"kobruh, Marro, SecretAgent",incomplete_roster
+2026-10-05_374e78856a60_0240,2026-10-05,Mai Tai,240,"aimy, chudy, Melavi, tomiko",incomplete_roster
+2026-10-05_374e78856a60_0247,2026-10-05,5dads,247,"nope, Oath, SWANKY, tajne",incomplete_roster
+2026-10-05_374e78856a60_0248,2026-10-05,ALTAY,248,"ARSPOWER, Blackout, kiytsu, Plain7",incomplete_roster
+2026-10-05_374e78856a60_0249,2026-10-05,DEPO,249,"dako, sh1seido, shoxs, w1nt3r, wetfy",ambiguous_core_match
+2026-10-05_374e78856a60_0252,2026-10-05,Dripmen,252,"Ariant0, dobbo, Frazehh, Prime, robiin",ambiguous_core_match
+2026-10-05_374e78856a60_0259,2026-10-05,Zomblers,259,"CAJUN, CoolComs, FxRE, Pose1doNN, Zoker",ambiguous_core_match
+2026-10-05_374e78856a60_0261,2026-10-05,B8 Academy,261,"k1n, r0se, segukawa, sherman",incomplete_roster
+2026-10-05_374e78856a60_0262,2026-10-05,Teletubisie,262,"byali, dycha, mASKED, Sobol",incomplete_roster
+2026-10-05_374e78856a60_0270,2026-10-05,Invicta,270,"artie, Griller, SinK",incomplete_roster
+2026-10-05_374e78856a60_0271,2026-10-05,Privateer,271,"Ariant0, Frazehh, JAUSTERE, M1n1maL, Prime",ambiguous_core_match
+2026-10-05_374e78856a60_0272,2026-10-05,Marsborne,272,"chop, Grizz, motm, WolfY",incomplete_roster
+2026-10-05_374e78856a60_0273,2026-10-05,Festina Lente,273,"FRIZZY, Fruitcupx, gamble, Maxuel",incomplete_roster
+2026-10-05_374e78856a60_0275,2026-10-05,ZOTIX,275,"byr9, EsD, kalyambys, xeNji",incomplete_roster
+2026-10-05_374e78856a60_0276,2026-10-05,los kogutos,276,"AdrieN, maaryy, Markoś, Nami, yvro",ambiguous_core_match
+2026-10-05_374e78856a60_0282,2026-10-05,Bebop,282,"danistzz, faydett, iDISBALANCE, lov1kus, Norwi",ambiguous_core_match
+2026-10-05_374e78856a60_0290,2026-10-05,Misa,290,"Ckanic, Mertowsk1, rim3, souv, Zuedsta",ambiguous_core_match
+2026-10-05_374e78856a60_0294,2026-10-05,WAZABI,294,"BacH, BangBang, Laykinn, m0vski",incomplete_roster
+2026-10-05_374e78856a60_0296,2026-10-05,Mai Tai,296,"chudy, darchevile, Nami, sEIS, yvro",ambiguous_core_match
+2026-10-05_374e78856a60_0300,2026-10-05,ex-Arcade,300,"74LOR, Kras, Mechanical, N1ghtraid",incomplete_roster
+2026-10-05_374e78856a60_0302,2026-10-05,Olympus,302,"Bizarre666, k6rdon, relan",incomplete_roster
+2026-10-05_374e78856a60_0303,2026-10-05,VEXA,303,"neozix, nolkz, rainny, ryuzen, zock9",ambiguous_core_match
+2026-10-05_374e78856a60_0304,2026-10-05,FAFO,304,"nibito, whitezins, ynrii",incomplete_roster
+2026-10-05_374e78856a60_0311,2026-10-05,BIG Academy,311,"doni, JBOEN, prosus, tripex17, w1dow",ambiguous_core_match
+2026-10-05_374e78856a60_0318,2026-10-05,madlikewizards,318,"asap, DOGMANtheBOSS, JD",incomplete_roster
+2026-10-05_374e78856a60_0321,2026-10-05,overTIME,321,"adex, Arielek, Kizzzi, patrikinho",incomplete_roster
+2026-10-05_374e78856a60_0322,2026-10-05,HAVENs,322,"Brens, FABEN, Pleb0rs, whitezins",incomplete_roster
+2026-10-05_374e78856a60_0323,2026-10-05,Tricksters,323,"halfjix, iRV1NG, Rodos1k",incomplete_roster
+2026-10-05_374e78856a60_0329,2026-10-05,benched gods,329,"BloodyK, f1chper, K014NZ, MisterHy, Wign",ambiguous_core_match
+2026-10-05_374e78856a60_0331,2026-10-05,Honvéd,331,"esor, marTineZ",incomplete_roster
+2026-10-05_374e78856a60_0332,2026-10-05,The KnockoutX,332,"KLRoxy, reason, Yuxz, z1ayr",incomplete_roster
+2026-10-05_374e78856a60_0334,2026-10-05,Incognito,334,"Axed, micro, Tender, viz",incomplete_roster
+2026-10-05_374e78856a60_0337,2026-10-05,TrafficPills,337,"F1n3tw, GREATEST, KENHY, MoWeL",incomplete_roster
+2026-10-05_374e78856a60_0349,2026-10-05,M1X KS,349,"Dementor, gejmzilla, Lewis, v1w",incomplete_roster
+2026-10-05_374e78856a60_0351,2026-10-05,GameHunters,351,"abr, bnc, bsd, f4stzin, nyezin",ambiguous_core_match
+2026-10-05_374e78856a60_0354,2026-10-05,EC BANGA,354,"blazekiNho, keni, Labreenc, makaroff",incomplete_roster
+2026-10-05_374e78856a60_0355,2026-10-05,raisedbypixels,355,"1luke, atyla, bright, flacko",incomplete_roster
+2026-10-05_374e78856a60_0364,2026-10-05,Coalesce,364,"Flicky, onder, sen1ar",incomplete_roster
+2026-10-05_374e78856a60_0365,2026-10-05,Trainwrecks,365,"AhMa, Hattivatti, LapaSSS, melty",incomplete_roster
+2026-10-05_374e78856a60_0366,2026-10-05,1337,366,"FELSADIA, grizzly, Kamui",incomplete_roster
+2026-10-05_374e78856a60_0368,2026-10-05,6666,368,"auth0ri, m4d4ra, rickangel, skcH",incomplete_roster
+2026-10-05_374e78856a60_0369,2026-10-05,Aimhaus,369,"flairr, silrak, Yamero",incomplete_roster
+2026-10-05_374e78856a60_0371,2026-10-05,bLight blue,371,"clyd1e, ImpressioN, w1nt3r",incomplete_roster
+2026-10-05_374e78856a60_0373,2026-10-05,Banda Chuya,373,"ezox, manio",incomplete_roster
+2026-10-05_374e78856a60_0374,2026-10-05,Unreal Nightmare,374,"brawckzz, j3nni, Sharpie",incomplete_roster
+2026-10-05_374e78856a60_0377,2026-10-05,Players,377,"MITHPUTTINI, souz4h, space, xns",incomplete_roster
+2026-10-05_374e78856a60_0379,2026-10-05,QuantumX,379,"grizzly, Kamui, Paranormal, soloooS",incomplete_roster

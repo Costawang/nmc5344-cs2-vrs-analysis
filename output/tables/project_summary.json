@@ -1,0 +1,16 @@
+{
+  "source_versions": 23999,
+  "global_rows": 14070,
+  "global_dates": 56,
+  "monthly_rows": 7827,
+  "monthly_dates": 27,
+  "latest_date": "2026-10-05",
+  "mean_core_retention": 0.8591,
+  "mean_exact_retention_same_transitions": 0.7682,
+  "mean_exact_retention_all_complete_transitions": 0.75,
+  "evaluable_core_transitions": 22,
+  "excluded_core_transitions": 4,
+  "within_period_core_retention": 0.8526,
+  "validation_checks": 27,
+  "all_checks_passed": true
+}

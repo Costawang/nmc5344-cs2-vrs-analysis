@@ -1,0 +1,4 @@
+source_path,blob_sha,size_bytes,repository,reason
+.gitignore,2a7e295541f045bdc914843a834bc07325734070,58,ValveSoftware/counter-strike_regional_standings,Not a ranking input or directly relevant interpretation document
+.gitignore,f68908a3fa2defada64be2f4a99beee852577697,19,ValveSoftware/counter-strike_rules_and_regs,Not a ranking input or directly relevant interpretation document
+tournament-item-submission-guidelines.md,0db8be3046538ef1859131211cb2f3f30b267334,5806,ValveSoftware/counter-strike_rules_and_regs,Not a ranking input or directly relevant interpretation document
